@@ -1,0 +1,566 @@
+index,hazard_category,product_category,hazard,product
+0,biological,"meat, egg and dairy products",listeria monocytogenes,thermal processed pork meat
+1,biological,"meat, egg and dairy products",escherichia coli,thermal processed pork meat
+2,biological,"meat, egg and dairy products",plastic fragment,chicken breast
+3,allergens,ices and desserts,cereals containing gluten and products thereof,ice cream
+4,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken breast
+5,biological,cereals and bakery products,plastic fragment,ready to eat - cook meals
+6,biological,"meat, egg and dairy products",escherichia coli,milk
+7,foreign bodies,cereals and bakery products,glass fragment,ready to eat - cook meals
+8,foreign bodies,"meat, egg and dairy products",plastic fragment,ready to eat - cook meals
+9,biological,"meat, egg and dairy products",listeria monocytogenes,ready to eat - cook meals
+10,foreign bodies,"meat, egg and dairy products",plastic fragment,ready to eat - cook meals
+11,biological,"meat, egg and dairy products",glass fragment,ready to eat - cook meals
+12,foreign bodies,cereals and bakery products,metal fragment,ready to eat - cook meals
+13,chemical,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+14,biological,cereals and bakery products,metal fragment,ready to eat - cook meals
+15,chemical,"meat, egg and dairy products",other,ice cream
+16,allergens,cereals and bakery products,soybeans and products thereof,ready to eat - cook meals
+17,biological,"meat, egg and dairy products",escherichia coli,cheese
+18,biological,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+19,foreign bodies,non-alcoholic beverages,other,ice cream
+20,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+21,allergens,cereals and bakery products,eggs and products thereof,cakes
+22,foreign bodies,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+23,allergens,cereals and bakery products,eggs and products thereof,cakes
+24,allergens,cereals and bakery products,glass fragment,cakes
+25,foreign bodies,cereals and bakery products,glass fragment,ready to eat - cook meals
+26,allergens,cereals and bakery products,eggs and products thereof,cakes
+27,biological,"meat, egg and dairy products",listeria monocytogenes,ham
+28,allergens,cereals and bakery products,milk and products thereof,ready to eat - cook meals
+29,allergens,cereals and bakery products,peanuts and products thereof,cakes
+30,biological,"meat, egg and dairy products",escherichia coli,ready to eat - cook meals
+31,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+32,allergens,cereals and bakery products,milk and products thereof,cakes
+33,chemical,non-alcoholic beverages,other,ready to eat - cook meals
+34,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+35,foreign bodies,"meat, egg and dairy products",metal fragment,chicken based products
+36,biological,cereals and bakery products,metal fragment,cakes
+37,foreign bodies,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+38,biological,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+39,allergens,"meat, egg and dairy products",labelling/misdescription,ready to eat - cook meals
+40,allergens,cereals and bakery products,labelling/misdescription,ready to eat - cook meals
+41,foreign bodies,non-alcoholic beverages,other,cakes
+42,biological,cereals and bakery products,plastic fragment,ready to eat - cook meals
+43,biological,"meat, egg and dairy products",listeria monocytogenes,ready to eat - cook meals
+44,foreign bodies,cereals and bakery products,glass fragment,ready to eat - cook meals
+45,allergens,cereals and bakery products,milk and products thereof,ready to eat - cook meals
+46,biological,"meat, egg and dairy products",listeria monocytogenes,ready to eat - cook meals
+47,allergens,cereals and bakery products,labelling/misdescription,cakes
+48,allergens,cereals and bakery products,eggs and products thereof,ice cream
+49,foreign bodies,cereals and bakery products,metal fragment,ready to eat - cook meals
+50,foreign bodies,cereals and bakery products,metal fragment,ready to eat - cook meals
+51,foreign bodies,"meat, egg and dairy products",plastic fragment,ready to eat - cook meals
+52,biological,"meat, egg and dairy products",escherichia coli,cheese
+53,foreign bodies,cereals and bakery products,plastic fragment,cakes
+54,foreign bodies,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+55,allergens,cereals and bakery products,labelling/misdescription,cakes
+56,allergens,cereals and bakery products,labelling/misdescription,cakes
+57,biological,"meat, egg and dairy products",escherichia coli,ready to eat - cook meals
+58,biological,"meat, egg and dairy products",escherichia coli,ready to eat - cook meals
+59,foreign bodies,cereals and bakery products,metal fragment,cakes
+60,foreign bodies,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+61,biological,"meat, egg and dairy products",listeria monocytogenes,ready to eat - cook meals
+62,allergens,"meat, egg and dairy products",labelling/misdescription,ready to eat - cook meals
+63,biological,"nuts, nut products and seeds",salmonella,ice cream
+64,biological,ices and desserts,salmonella,ice cream
+65,biological,ices and desserts,escherichia coli,ice cream
+66,biological,ices and desserts,salmonella,ice cream
+67,biological,"nuts, nut products and seeds",salmonella,peanuts
+68,biological,cereals and bakery products,escherichia coli,ready to eat - cook meals
+69,foreign bodies,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+70,allergens,cereals and bakery products,labelling/misdescription,cakes
+71,other hazard,"meat, egg and dairy products",inspection issues,beef
+72,allergens,ices and desserts,labelling/misdescription,ice cream
+73,biological,"meat, egg and dairy products",escherichia coli,ground beef
+74,biological,cereals and bakery products,salmonella,ice cream
+75,biological,fruits and vegetables,salmonella,pistachio nuts
+76,allergens,cereals and bakery products,cereals containing gluten and products thereof,biscuits
+77,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+78,biological,fruits and vegetables,salmonella,pistachio nuts
+79,food additives and flavourings,confectionery,e 425 - konjac unauthorised,jellies
+80,foreign bodies,cereals and bakery products,metal fragment,cakes
+81,biological,fruits and vegetables,listeria monocytogenes,salads
+82,allergens,"meat, egg and dairy products",milk and products thereof,cakes
+83,chemical,"meat, egg and dairy products",other,cakes
+84,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+85,biological,fruits and vegetables,listeria monocytogenes,ice cream
+86,allergens,"meat, egg and dairy products",milk and products thereof,soup
+87,allergens,cereals and bakery products,eggs and products thereof,cakes
+88,biological,"meat, egg and dairy products",escherichia coli,ground beef
+89,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+90,biological,fruits and vegetables,salmonella,ready to eat - cook meals
+91,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,dark chocolates
+92,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+93,foreign bodies,"meat, egg and dairy products",glass fragment,ice cream
+94,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+95,allergens,fruits and vegetables,labelling/misdescription,cakes
+96,foreign bodies,ices and desserts,metal fragment,ice cream
+97,biological,"meat, egg and dairy products",salmonella,ground beef
+98,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+99,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+100,biological,ices and desserts,salmonella,ice cream
+101,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+102,biological,"meat, egg and dairy products",listeria monocytogenes,ready to eat - cook meals
+103,biological,fruits and vegetables,listeria monocytogenes,salads
+104,allergens,"meat, egg and dairy products",soybeans and products thereof,ready to eat - cook meals
+105,biological,ices and desserts,salmonella,ice cream
+106,allergens,cereals and bakery products,peanuts and products thereof,cakes
+107,biological,"meat, egg and dairy products",plastic fragment,ice cream
+108,allergens,fruits and vegetables,sulphur dioxide and sulphites,cakes
+109,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+110,foreign bodies,cereals and bakery products,plastic fragment,ice cream
+111,biological,"meat, egg and dairy products",escherichia coli,ready to eat - cook meals
+112,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+113,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+114,biological,fruits and vegetables,salmonella,ice cream
+115,allergens,cereals and bakery products,walnut,cookies
+116,biological,cereals and bakery products,metal fragment,cakes
+117,biological,"nuts, nut products and seeds",salmonella,ready to eat - cook meals
+118,biological,fruits and vegetables,salmonella,pistachio nuts
+119,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+120,biological,"nuts, nut products and seeds",salmonella,peanuts
+121,biological,"nuts, nut products and seeds",salmonella,peanuts
+122,biological,"nuts, nut products and seeds",salmonella,ice cream
+123,biological,"nuts, nut products and seeds",salmonella,cookies
+124,biological,"nuts, nut products and seeds",salmonella,ice cream
+125,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,cakes
+126,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+127,chemical,"dietetic foods, food supplements, fortified foods",other,ice cream
+128,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+129,foreign bodies,ices and desserts,peanuts and products thereof,ice cream
+130,biological,"meat, egg and dairy products",plastic fragment,ice cream
+131,biological,"meat, egg and dairy products",salmonella,chicken based products
+132,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+133,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+134,allergens,cereals and bakery products,soybeans and products thereof,cakes
+135,allergens,cereals and bakery products,soybeans and products thereof,cakes
+136,allergens,cereals and bakery products,milk and products thereof,cakes
+137,biological,"meat, egg and dairy products",listeria monocytogenes,ready to eat - cook meals
+138,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+139,allergens,ices and desserts,milk and products thereof,ice cream
+140,chemical,fruits and vegetables,escherichia coli,ready to eat - cook meals
+141,foreign bodies,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+142,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+143,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+144,fraud,"meat, egg and dairy products",plastic fragment,chicken based products
+145,allergens,cereals and bakery products,milk and products thereof,cakes
+146,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+147,foreign bodies,"meat, egg and dairy products",plastic fragment,ready to eat - cook meals
+148,allergens,"nuts, nut products and seeds",peanuts and products thereof,peanuts
+149,biological,"meat, egg and dairy products",escherichia coli,ground beef
+150,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+151,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+152,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+153,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+154,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+155,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+156,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+157,allergens,cereals and bakery products,peanuts and products thereof,cakes
+158,allergens,cereals and bakery products,soybeans and products thereof,cakes
+159,allergens,fruits and vegetables,sulphur dioxide and sulphites,cakes
+160,allergens,fruits and vegetables,sulphur dioxide and sulphites,cakes
+161,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+162,allergens,ices and desserts,eggs and products thereof,ice cream
+163,biological,fruits and vegetables,salmonella,chicken based products
+164,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+165,fraud,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+166,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+167,allergens,cereals and bakery products,milk and products thereof,cakes
+168,biological,fruits and vegetables,listeria monocytogenes,salmon
+169,biological,fruits and vegetables,salmonella,ice cream
+170,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+171,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+172,biological,"meat, egg and dairy products",salmonella,chicken based products
+173,biological,"meat, egg and dairy products",escherichia coli,cheese
+174,allergens,cereals and bakery products,milk and products thereof,coconuts
+175,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+176,allergens,cereals and bakery products,milk and products thereof,cakes
+177,biological,"meat, egg and dairy products",plastic fragment,cakes
+178,allergens,cereals and bakery products,milk and products thereof,coconuts
+179,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+180,foreign bodies,cereals and bakery products,glass fragment,cakes
+181,biological,seafood,clostridium botulinum,salmon
+182,biological,"meat, egg and dairy products",metal fragment,cakes
+183,biological,"meat, egg and dairy products",escherichia coli,milk
+184,biological,"meat, egg and dairy products",salmonella,chicken based products
+185,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+186,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+187,allergens,cereals and bakery products,peanuts and products thereof,ice cream
+188,allergens,cereals and bakery products,milk and products thereof,cakes
+189,biological,fruits and vegetables,salmonella,ready to eat - cook meals
+190,biological,"meat, egg and dairy products",escherichia coli,milk
+191,biological,fruits and vegetables,salmonella,pistachio nuts
+192,biological,"nuts, nut products and seeds",salmonella,ice cream
+193,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+194,allergens,"nuts, nut products and seeds",almond,cakes
+195,allergens,cereals and bakery products,milk and products thereof,cakes
+196,allergens,fruits and vegetables,sulphur dioxide and sulphites,cakes
+197,allergens,cereals and bakery products,milk and products thereof,cakes
+198,biological,cereals and bakery products,listeria monocytogenes,ice cream
+199,allergens,"meat, egg and dairy products",milk and products thereof,ice cream
+200,allergens,cereals and bakery products,milk and products thereof,cakes
+201,allergens,cereals and bakery products,milk and products thereof,dietary supplement
+202,foreign bodies,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+203,allergens,cereals and bakery products,listeria monocytogenes,ice cream
+204,allergens,cereals and bakery products,milk and products thereof,cakes
+205,allergens,cereals and bakery products,listeria monocytogenes,ice cream
+206,biological,prepared dishes and snacks,listeria monocytogenes,sunflower seed
+207,biological,cereals and bakery products,listeria monocytogenes,ice cream
+208,biological,"nuts, nut products and seeds",listeria monocytogenes,sunflower seed
+209,biological,fruits and vegetables,salmonella,ready to eat - cook meals
+210,biological,fruits and vegetables,listeria monocytogenes,ice cream
+211,biological,cereals and bakery products,listeria monocytogenes,ice cream
+212,biological,"nuts, nut products and seeds",listeria monocytogenes,sandwiches
+213,biological,cereals and bakery products,listeria monocytogenes,ice cream
+214,biological,"nuts, nut products and seeds",salmonella,pistachio nuts
+215,allergens,cereals and bakery products,soybeans and products thereof,cakes
+216,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+217,biological,"meat, egg and dairy products",escherichia coli,chicken based products
+218,allergens,prepared dishes and snacks,eggs and products thereof,cakes
+219,fraud,seafood,inspection issues,chicken based products
+220,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,dark chocolates
+221,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+222,allergens,cereals and bakery products,eggs and products thereof,cakes
+223,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+224,foreign bodies,"meat, egg and dairy products",plastic fragment,ice cream
+225,foreign bodies,"meat, egg and dairy products",plastic fragment,ground beef
+226,foreign bodies,"meat, egg and dairy products",escherichia coli,chicken based products
+227,biological,"nuts, nut products and seeds",salmonella,ice cream
+228,biological,"nuts, nut products and seeds",salmonella,soup
+229,biological,"meat, egg and dairy products",salmonella,chocolate products
+230,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,dark chocolates
+231,biological,fruits and vegetables,listeria monocytogenes,salmon
+232,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+233,fraud,"meat, egg and dairy products",other,cakes
+234,foreign bodies,"meat, egg and dairy products",milk and products thereof,chicken based products
+235,allergens,cereals and bakery products,peanuts and products thereof,cakes
+236,biological,cereals and bakery products,listeria monocytogenes,ice cream
+237,biological,"meat, egg and dairy products",incorrect use by dates,ready to eat - cook meals
+238,allergens,cereals and bakery products,milk and products thereof,biscuits
+239,allergens,cereals and bakery products,eggs and products thereof,cakes
+240,biological,"nuts, nut products and seeds",salmonella,ice cream
+241,biological,ices and desserts,salmonella,ice cream
+242,biological,"meat, egg and dairy products",escherichia coli,cheese
+243,biological,"nuts, nut products and seeds",listeria monocytogenes,ice cream
+244,biological,cereals and bakery products,listeria monocytogenes,ice cream
+245,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+246,allergens,cereals and bakery products,almond,ready to eat - cook meals
+247,allergens,prepared dishes and snacks,milk and products thereof,cakes
+248,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+249,biological,"meat, egg and dairy products",escherichia coli,cheese
+250,foreign bodies,"meat, egg and dairy products",metal fragment,cakes
+251,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+252,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+253,biological,fruits and vegetables,listeria monocytogenes,salads
+254,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+255,foreign bodies,"meat, egg and dairy products",metal fragment,ground beef
+256,foreign bodies,"meat, egg and dairy products",metal fragment,cakes
+257,fraud,seafood,plastic fragment,chicken based products
+258,allergens,cereals and bakery products,peanuts and products thereof,cakes
+259,biological,fruits and vegetables,listeria monocytogenes,ice cream
+260,biological,fruits and vegetables,escherichia coli,cakes
+261,biological,"meat, egg and dairy products",escherichia coli,ground beef
+262,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+263,biological,fruits and vegetables,salmonella,ice cream
+264,biological,"meat, egg and dairy products",escherichia coli,ground beef
+265,biological,"meat, egg and dairy products",escherichia coli,ground beef
+266,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+267,biological,"meat, egg and dairy products",escherichia coli,cakes
+268,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+269,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+270,allergens,cereals and bakery products,milk and products thereof,cakes
+271,allergens,fruits and vegetables,sulphur dioxide and sulphites,cakes
+272,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+273,foreign bodies,fruits and vegetables,metal fragment,cheese
+274,foreign bodies,"meat, egg and dairy products",metal fragment,ready to eat - cook meals
+275,biological,fruits and vegetables,escherichia coli,cakes
+276,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+277,allergens,cereals and bakery products,peanuts and products thereof,biscuits
+278,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+279,foreign bodies,cereals and bakery products,other,ice cream
+280,allergens,cereals and bakery products,peanuts and products thereof,cakes
+281,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+282,allergens,cereals and bakery products,milk and products thereof,cakes
+283,allergens,fruits and vegetables,mustard and products thereof,cakes
+284,biological,cereals and bakery products,plastic fragment,ready to eat - cook meals
+285,biological,fruits and vegetables,escherichia coli,cheese
+286,allergens,cereals and bakery products,peanuts and products thereof,cakes
+287,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+288,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,ice cream
+289,biological,fruits and vegetables,escherichia coli,salads
+290,biological,seafood,clostridium botulinum,salmon
+291,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+292,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+293,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+294,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+295,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+296,allergens,cereals and bakery products,milk and products thereof,coconuts
+297,allergens,"meat, egg and dairy products",milk and products thereof,cakes
+298,allergens,cereals and bakery products,sesame seeds and products thereof,cakes
+299,allergens,"meat, egg and dairy products",plastic fragment,chicken based products
+300,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+301,biological,fruits and vegetables,salmonella,chicken based products
+302,allergens,cereals and bakery products,soybeans and products thereof,cakes
+303,biological,fruits and vegetables,listeria monocytogenes,salads
+304,foreign bodies,cereals and bakery products,metal fragment,ice cream
+305,allergens,cereals and bakery products,mustard and products thereof,cakes
+306,biological,"meat, egg and dairy products",escherichia coli,cheese
+307,foreign bodies,"meat, egg and dairy products",metal fragment,cakes
+308,biological,"nuts, nut products and seeds",salmonella,pistachio nuts
+309,chemical,fruits and vegetables,metal fragment,ready to eat - cook meals
+310,biological,cereals and bakery products,listeria monocytogenes,ice cream
+311,allergens,cereals and bakery products,milk and products thereof,cakes
+312,biological,"meat, egg and dairy products",salmonella,cakes
+313,allergens,ices and desserts,peanuts and products thereof,ice cream
+314,foreign bodies,"meat, egg and dairy products",metal fragment,cakes
+315,biological,"meat, egg and dairy products",escherichia coli,ice cream
+316,biological,"meat, egg and dairy products",listeria monocytogenes,salads
+317,allergens,cereals and bakery products,cereals containing gluten and products thereof,ice cream
+318,biological,cereals and bakery products,listeria monocytogenes,ice cream
+319,foreign bodies,fruits and vegetables,metal fragment,ice cream
+320,allergens,"meat, egg and dairy products",milk and products thereof,cakes
+321,foreign bodies,cereals and bakery products,other,cakes
+322,foreign bodies,"meat, egg and dairy products",inspection issues,chicken based products
+323,foreign bodies,cereals and bakery products,plastic fragment,cakes
+324,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+325,chemical,fruits and vegetables,other,soup
+326,biological,"nuts, nut products and seeds",salmonella,ice cream
+327,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+328,biological,cereals and bakery products,listeria monocytogenes,ice cream
+329,allergens,cereals and bakery products,soybeans and products thereof,cakes
+330,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+331,allergens,cereals and bakery products,milk and products thereof,cakes
+332,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+333,biological,"meat, egg and dairy products",listeria monocytogenes,salmon
+334,biological,"meat, egg and dairy products",salmonella,chicken based products
+335,biological,fruits and vegetables,salmonella,ice cream
+336,allergens,cereals and bakery products,peanuts and products thereof,cakes
+337,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+338,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+339,foreign bodies,"meat, egg and dairy products",metal fragment,ice cream
+340,allergens,seafood,eggs and products thereof,ready to eat - cook meals
+341,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+342,biological,fruits and vegetables,escherichia coli,ice cream
+343,allergens,"meat, egg and dairy products",other,ice cream
+344,allergens,cereals and bakery products,milk and products thereof,cakes
+345,biological,"meat, egg and dairy products",escherichia coli,cheese
+346,allergens,cereals and bakery products,soybeans and products thereof,cakes
+347,allergens,fruits and vegetables,sulphur dioxide and sulphites,cakes
+348,biological,"meat, egg and dairy products",salmonella,chicken based products
+349,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+350,allergens,cereals and bakery products,milk and products thereof,ice cream
+351,allergens,cereals and bakery products,soybeans and products thereof,cakes
+352,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+353,biological,"meat, egg and dairy products",salmonella,ground beef
+354,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+355,allergens,cereals and bakery products,milk and products thereof,cakes
+356,foreign bodies,"meat, egg and dairy products",inspection issues,chicken based products
+357,allergens,fruits and vegetables,milk and products thereof,ice cream
+358,biological,cereals and bakery products,metal fragment,ice cream
+359,foreign bodies,fruits and vegetables,insects,ice cream
+360,foreign bodies,fruits and vegetables,insects,ice cream
+361,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+362,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+363,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+364,allergens,cereals and bakery products,milk and products thereof,cakes
+365,allergens,cereals and bakery products,milk and products thereof,cakes
+366,fraud,seafood,inspection issues,chicken based products
+367,allergens,cereals and bakery products,peanuts and products thereof,biscuits
+368,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+369,biological,"meat, egg and dairy products",salmonella,ground beef
+370,allergens,cereals and bakery products,milk and products thereof,cakes
+371,foreign bodies,fruits and vegetables,plastic fragment,cakes
+372,biological,fruits and vegetables,listeria monocytogenes,ice cream
+373,allergens,cereals and bakery products,eggs and products thereof,cakes
+374,biological,"nuts, nut products and seeds",listeria monocytogenes,ice cream
+375,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+376,allergens,cereals and bakery products,milk and products thereof,cakes
+377,biological,"meat, egg and dairy products",escherichia coli,Fishes not identified
+378,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+379,allergens,seafood,eggs and products thereof,Fishes not identified
+380,biological,seafood,listeria monocytogenes,salmon
+381,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+382,allergens,cereals and bakery products,milk and products thereof,ready to eat - cook meals
+383,foreign bodies,"meat, egg and dairy products",metal fragment,cakes
+384,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+385,allergens,cereals and bakery products,eggs and products thereof,cakes
+386,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+387,biological,"meat, egg and dairy products",escherichia coli,milk
+388,chemical,non-alcoholic beverages,escherichia coli,ice cream
+389,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+390,foreign bodies,non-alcoholic beverages,metal fragment,cakes
+391,allergens,cereals and bakery products,milk and products thereof,ice cream
+392,allergens,cereals and bakery products,milk and products thereof,cakes
+393,allergens,fruits and vegetables,sulphur dioxide and sulphites,dried apricots
+394,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+395,allergens,fruits and vegetables,sulphur dioxide and sulphites,dried apricots
+396,allergens,"dietetic foods, food supplements, fortified foods",milk and products thereof,cookies
+397,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+398,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+399,biological,fruits and vegetables,salmonella,ready to eat - cook meals
+400,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+401,allergens,cereals and bakery products,milk and products thereof,cakes
+402,chemical,"meat, egg and dairy products",unauthorised substance ethylene oxide,ice cream
+403,allergens,"meat, egg and dairy products",soybeans and products thereof,chicken based products
+404,allergens,prepared dishes and snacks,milk and products thereof,cakes
+405,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+406,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+407,foreign bodies,"soups, broths, sauces and condiments",plastic fragment,cookies
+408,biological,"meat, egg and dairy products",listeria monocytogenes,salads
+409,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,dark chocolates
+410,biological,non-alcoholic beverages,escherichia coli,bottled water
+411,allergens,"meat, egg and dairy products",milk and products thereof,cakes
+412,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+413,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+414,biological,"meat, egg and dairy products",listeria monocytogenes,salads
+415,allergens,cereals and bakery products,mustard and products thereof,cakes
+416,allergens,cereals and bakery products,soybeans and products thereof,cakes
+417,biological,fruits and vegetables,salmonella,ice cream
+418,allergens,cereals and bakery products,milk and products thereof,cakes
+419,biological,fruits and vegetables,salmonella,ice cream
+420,biological,fruits and vegetables,listeria monocytogenes,sandwiches
+421,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+422,biological,"meat, egg and dairy products",escherichia coli,cakes
+423,biological,fruits and vegetables,listeria monocytogenes,sandwiches
+424,foreign bodies,"meat, egg and dairy products",plastic fragment,Fishes not identified
+425,foreign bodies,"meat, egg and dairy products",escherichia coli,Fishes not identified
+426,allergens,cereals and bakery products,milk and products thereof,cakes
+427,allergens,cereals and bakery products,peanuts and products thereof,Fishes not identified
+428,biological,seafood,escherichia coli,Fishes not identified
+429,allergens,cereals and bakery products,soybeans and products thereof,cakes
+430,allergens,"meat, egg and dairy products",milk and products thereof,Fishes not identified
+431,biological,"meat, egg and dairy products",metal fragment,chicken based products
+432,allergens,cereals and bakery products,eggs and products thereof,Fishes not identified
+433,allergens,cereals and bakery products,milk and products thereof,Fishes not identified
+434,allergens,cereals and bakery products,milk and products thereof,Fishes not identified
+435,allergens,cereals and bakery products,milk and products thereof,ice cream
+436,allergens,cereals and bakery products,cereals containing gluten and products thereof,chocolate bars
+437,biological,"meat, egg and dairy products",escherichia coli,Fishes not identified
+438,biological,seafood,listeria monocytogenes,salmon
+439,allergens,fruits and vegetables,sulphur dioxide and sulphites,ready to eat - cook meals
+440,allergens,cereals and bakery products,eggs and products thereof,cakes
+441,biological,fruits and vegetables,listeria monocytogenes,fresh mushrooms
+442,chemical,non-alcoholic beverages,other,ready to eat - cook meals
+443,fraud,"meat, egg and dairy products",incorrect use by dates,sausage
+444,biological,seafood,escherichia coli,Fishes not identified
+445,biological,"meat, egg and dairy products",escherichia coli,Fishes not identified
+446,allergens,cereals and bakery products,milk and products thereof,Fishes not identified
+447,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+448,allergens,cereals and bakery products,milk and products thereof,cakes
+449,allergens,cereals and bakery products,milk and products thereof,cakes
+450,biological,fruits and vegetables,salmonella,ice cream
+451,biological,fruits and vegetables,escherichia coli,salads
+452,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,Fishes not identified
+453,allergens,cereals and bakery products,eggs and products thereof,cakes
+454,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+455,biological,fruits and vegetables,salmonella,onions
+456,biological,fruits and vegetables,salmonella,ice cream
+457,allergens,"soups, broths, sauces and condiments",soybeans and products thereof,soup
+458,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+459,allergens,"meat, egg and dairy products",milk and products thereof,biscuits
+460,allergens,cereals and bakery products,peanuts and products thereof,cakes
+461,biological,"meat, egg and dairy products",escherichia coli,ground beef
+462,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+463,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,dark chocolates
+464,allergens,cereals and bakery products,eggs and products thereof,cakes
+465,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+466,biological,"soups, broths, sauces and condiments",other,ready to eat - cook meals
+467,chemical,cereals and bakery products,unauthorised substance ethylene oxide,sesame seeds
+468,foreign bodies,cereals and bakery products,plastic fragment,ice cream
+469,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+470,biological,fruits and vegetables,salmonella,onions
+471,chemical,cereals and bakery products,unauthorised substance ethylene oxide,sesame seeds
+472,biological,fruits and vegetables,escherichia coli,ready to eat - cook meals
+473,allergens,cereals and bakery products,milk and products thereof,cookies
+474,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+475,allergens,"meat, egg and dairy products",cereals containing gluten and products thereof,Fishes not identified
+476,biological,"meat, egg and dairy products",salmonella,chicken based products
+477,chemical,herbs and spices,unauthorised substance ethylene oxide,sesame seeds
+478,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+479,allergens,cereals and bakery products,soybeans and products thereof,cakes
+480,allergens,fruits and vegetables,eggs and products thereof,salads
+481,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+482,foreign bodies,"meat, egg and dairy products",metal fragment,Fishes not identified
+483,biological,fruits and vegetables,clostridium botulinum,cakes
+484,allergens,cereals and bakery products,soybeans and products thereof,cakes
+485,allergens,cereals and bakery products,milk and products thereof,cakes
+486,allergens,cereals and bakery products,eggs and products thereof,cakes
+487,foreign bodies,"meat, egg and dairy products",metal fragment,Fishes not identified
+488,allergens,cereals and bakery products,cereals containing gluten and products thereof,Fishes not identified
+489,biological,"meat, egg and dairy products",escherichia coli,ready to eat - cook meals
+490,biological,fruits and vegetables,listeria monocytogenes,pet feed
+491,allergens,cereals and bakery products,milk and products thereof,cookies
+492,biological,fruits and vegetables,salmonella,pistachio nuts
+493,biological,fruits and vegetables,escherichia coli,ready to eat - cook meals
+494,allergens,"meat, egg and dairy products",milk and products thereof,chicken based products
+495,allergens,"nuts, nut products and seeds",almond,almond products
+496,allergens,cereals and bakery products,milk and products thereof,cookies
+497,allergens,cereals and bakery products,milk and products thereof,cakes
+498,allergens,cereals and bakery products,soybeans and products thereof,cakes
+499,allergens,cereals and bakery products,milk and products thereof,cakes
+500,allergens,cereals and bakery products,sesame seeds and products thereof,biscuits
+501,biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+502,foreign bodies,cereals and bakery products,glass fragment,ice cream
+503,biological,fruits and vegetables,milk and products thereof,ice cream
+504,allergens,cereals and bakery products,soybeans and products thereof,cakes
+505,biological,cereals and bakery products,escherichia coli,ready to eat - cook meals
+506,biological,"meat, egg and dairy products",escherichia coli,Fishes not identified
+507,allergens,cereals and bakery products,milk and products thereof,cakes
+508,allergens,"meat, egg and dairy products",milk and products thereof,cakes
+509,biological,fruits and vegetables,listeria monocytogenes,sandwiches
+510,allergens,fruits and vegetables,milk and products thereof,dried apricots
+511,chemical,"dietetic foods, food supplements, fortified foods",other,dietary supplement
+512,biological,fruits and vegetables,salmonella,ice cream
+513,allergens,"cocoa and cocoa preparations, coffee and tea",peanuts and products thereof,dark chocolates
+514,chemical,ices and desserts,unauthorised substance ethylene oxide,ice cream
+515,allergens,cereals and bakery products,milk and products thereof,cakes
+516,fraud,fruits and vegetables,sulphur dioxide,ready to eat - cook meals
+517,foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+518,biological,"meat, egg and dairy products",salmonella,chicken based products
+519,biological,"meat, egg and dairy products",other,chicken based products
+520,biological,fruits and vegetables,listeria monocytogenes,salads
+521,biological,"meat, egg and dairy products",listeria monocytogenes,salads
+522,biological,seafood,other,pet feed
+523,biological,seafood,listeria monocytogenes,salmon
+524,fraud,fruits and vegetables,sulphur dioxide,ready to eat - cook meals
+525,chemical,fruits and vegetables,other,ready to eat - cook meals
+526,biological,fruits and vegetables,listeria monocytogenes,salads
+527,allergens,cereals and bakery products,milk and products thereof,ice cream
+528,biological,fruits and vegetables,listeria monocytogenes,salads
+529,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,cakes
+530,allergens,cereals and bakery products,mustard and products thereof,cakes
+531,biological,fruits and vegetables,salmonella,cakes
+532,foreign bodies,"meat, egg and dairy products",metal fragment,ice cream
+533,allergens,cereals and bakery products,milk and products thereof,cakes
+534,biological,"meat, egg and dairy products",salmonella,chicken based products
+535,allergens,seafood,milk and products thereof,Fishes not identified
+536,foreign bodies,"meat, egg and dairy products",metal fragment,cakes
+537,biological,fruits and vegetables,listeria monocytogenes,fresh mushrooms
+538,foreign bodies,cereals and bakery products,plastic fragment,soup
+539,biological,fruits and vegetables,salmonella,ice cream
+540,chemical,"meat, egg and dairy products",other,ice cream
+541,biological,cereals and bakery products,escherichia coli,ice cream
+542,chemical,"meat, egg and dairy products",unauthorised substance ethylene oxide,cheese
+543,allergens,"cocoa and cocoa preparations, coffee and tea",peanuts and products thereof,dark chocolates
+544,biological,"meat, egg and dairy products",salmonella,chocolate products
+545,foreign bodies,"meat, egg and dairy products",plastic fragment,cakes
+546,foreign bodies,alcoholic beverages,metal fragment,beer
+547,biological,cereals and bakery products,salmonella,cakes
+548,allergens,fruits and vegetables,sulphur dioxide and sulphites,cakes
+549,allergens,"meat, egg and dairy products",mustard and products thereof,sausage
+550,allergens,"meat, egg and dairy products",milk and products thereof,Fishes not identified
+551,biological,"cocoa and cocoa preparations, coffee and tea",salmonella,chocolate products
+552,biological,"cocoa and cocoa preparations, coffee and tea",salmonella,ice cream
+553,biological,fruits and vegetables,salmonella,Fishes not identified
+554,allergens,cereals and bakery products,peanuts and products thereof,cookies
+555,allergens,cereals and bakery products,cereals containing gluten and products thereof,cakes
+556,biological,"nuts, nut products and seeds",salmonella,ice cream
+557,chemical,"dietetic foods, food supplements, fortified foods",other,dietary supplement
+558,biological,cereals and bakery products,escherichia coli,ice cream
+559,chemical,ices and desserts,unauthorised substance ethylene oxide,ice cream
+560,allergens,"meat, egg and dairy products",milk and products thereof,cakes
+561,allergens,cereals and bakery products,milk and products thereof,cakes
+562,foreign bodies,cereals and bakery products,plastic fragment,cakes
+563,allergens,cereals and bakery products,peanuts and products thereof,biscuits
+564,allergens,"cocoa and cocoa preparations, coffee and tea",milk and products thereof,dark chocolates

@@ -1,0 +1,566 @@
+index,hazard_category,product_category,hazard,product
+0,biological,"meat, egg and dairy products",metal fragment,chicken based products
+1,biological,prepared dishes and snacks,metal fragment,chicken based products
+2,biological,prepared dishes and snacks,metal fragment,chicken based products
+3,allergens,prepared dishes and snacks,metal fragment,chicken based products
+4,biological,prepared dishes and snacks,metal fragment,chicken based products
+5,biological,prepared dishes and snacks,metal fragment,chicken based products
+6,fraud,ices and desserts,metal fragment,chicken based products
+7,migration,prepared dishes and snacks,metal fragment,ice cream
+8,biological,prepared dishes and snacks,metal fragment,ice cream
+9,biological,prepared dishes and snacks,metal fragment,ice cream
+10,biological,prepared dishes and snacks,metal fragment,ice cream
+11,biological,prepared dishes and snacks,metal fragment,chicken based products
+12,biological,prepared dishes and snacks,metal fragment,ice cream
+13,chemical,prepared dishes and snacks,metal fragment,ice cream
+14,biological,feed materials,metal fragment,chicken based products
+15,biological,prepared dishes and snacks,metal fragment,chicken based products
+16,allergens,prepared dishes and snacks,listeria monocytogenes,chicken based products
+17,biological,prepared dishes and snacks,metal fragment,ice cream
+18,biological,prepared dishes and snacks,metal fragment,ice cream
+19,biological,prepared dishes and snacks,metal fragment,ice cream
+20,biological,prepared dishes and snacks,metal fragment,ice cream
+21,allergens,feed materials,listeria monocytogenes,chicken based products
+22,biological,prepared dishes and snacks,metal fragment,ice cream
+23,allergens,prepared dishes and snacks,metal fragment,ice cream
+24,allergens,prepared dishes and snacks,metal fragment,ice cream
+25,biological,prepared dishes and snacks,metal fragment,chicken based products
+26,allergens,prepared dishes and snacks,listeria monocytogenes,chicken based products
+27,biological,prepared dishes and snacks,metal fragment,chicken based products
+28,allergens,prepared dishes and snacks,metal fragment,ice cream
+29,allergens,prepared dishes and snacks,metal fragment,ice cream
+30,biological,prepared dishes and snacks,metal fragment,ice cream
+31,biological,prepared dishes and snacks,metal fragment,ice cream
+32,allergens,prepared dishes and snacks,metal fragment,ice cream
+33,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+34,biological,prepared dishes and snacks,metal fragment,chicken based products
+35,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+36,biological,"meat, egg and dairy products",metal fragment,chicken based products
+37,biological,prepared dishes and snacks,metal fragment,chicken based products
+38,biological,prepared dishes and snacks,metal fragment,chicken based products
+39,allergens,prepared dishes and snacks,metal fragment,chicken based products
+40,migration,prepared dishes and snacks,metal fragment,chicken based products
+41,migration,prepared dishes and snacks,metal fragment,chicken based products
+42,biological,prepared dishes and snacks,metal fragment,chicken based products
+43,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+44,biological,prepared dishes and snacks,metal fragment,chicken based products
+45,allergens,prepared dishes and snacks,listeria monocytogenes,chicken based products
+46,biological,prepared dishes and snacks,metal fragment,chicken based products
+47,allergens,prepared dishes and snacks,metal fragment,chicken based products
+48,allergens,prepared dishes and snacks,metal fragment,chicken based products
+49,biological,prepared dishes and snacks,metal fragment,chicken based products
+50,biological,prepared dishes and snacks,metal fragment,chicken based products
+51,biological,prepared dishes and snacks,metal fragment,ice cream
+52,biological,"meat, egg and dairy products",metal fragment,chicken based products
+53,biological,prepared dishes and snacks,metal fragment,chicken based products
+54,foreign bodies,prepared dishes and snacks,metal fragment,chicken based products
+55,allergens,prepared dishes and snacks,metal fragment,chicken based products
+56,allergens,prepared dishes and snacks,metal fragment,chicken based products
+57,biological,prepared dishes and snacks,metal fragment,chicken based products
+58,fraud,prepared dishes and snacks,metal fragment,chicken based products
+59,biological,prepared dishes and snacks,metal fragment,chicken based products
+60,biological,prepared dishes and snacks,metal fragment,chicken based products
+61,biological,prepared dishes and snacks,metal fragment,chicken based products
+62,allergens,prepared dishes and snacks,metal fragment,chicken based products
+63,biological,prepared dishes and snacks,metal fragment,chicken based products
+64,biological,prepared dishes and snacks,metal fragment,pistachio nuts
+65,biological,prepared dishes and snacks,metal fragment,chicken based products
+66,biological,prepared dishes and snacks,metal fragment,chicken based products
+67,biological,prepared dishes and snacks,metal fragment,chicken based products
+68,chemical,prepared dishes and snacks,metal fragment,chicken based products
+69,fraud,prepared dishes and snacks,metal fragment,ice cream
+70,allergens,prepared dishes and snacks,metal fragment,chicken based products
+71,biological,"meat, egg and dairy products",metal fragment,chicken based products
+72,fraud,ices and desserts,listeria monocytogenes,chicken based products
+73,biological,"meat, egg and dairy products",metal fragment,chicken based products
+74,biological,prepared dishes and snacks,metal fragment,chicken based products
+75,biological,prepared dishes and snacks,metal fragment,chicken based products
+76,biological,fruits and vegetables,metal fragment,ice cream
+77,allergens,prepared dishes and snacks,metal fragment,ice cream
+78,biological,prepared dishes and snacks,metal fragment,chicken based products
+79,biological,prepared dishes and snacks,metal fragment,chicken based products
+80,biological,prepared dishes and snacks,metal fragment,ice cream
+81,fraud,prepared dishes and snacks,metal fragment,chicken based products
+82,allergens,prepared dishes and snacks,metal fragment,ice cream
+83,fraud,prepared dishes and snacks,metal fragment,chicken based products
+84,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+85,biological,prepared dishes and snacks,metal fragment,chicken based products
+86,allergens,prepared dishes and snacks,metal fragment,chicken based products
+87,allergens,prepared dishes and snacks,metal fragment,chicken based products
+88,biological,"meat, egg and dairy products",metal fragment,chicken based products
+89,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+90,biological,prepared dishes and snacks,listeria monocytogenes,baby spinach
+91,allergens,prepared dishes and snacks,metal fragment,chicken based products
+92,allergens,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+93,biological,prepared dishes and snacks,metal fragment,ice cream
+94,allergens,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+95,food additives and flavourings,prepared dishes and snacks,metal fragment,ice cream
+96,fraud,prepared dishes and snacks,metal fragment,raw milk
+97,biological,prepared dishes and snacks,metal fragment,chicken based products
+98,biological,prepared dishes and snacks,metal fragment,ice cream
+99,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+100,biological,prepared dishes and snacks,metal fragment,chicken based products
+101,biological,prepared dishes and snacks,metal fragment,chicken based products
+102,biological,prepared dishes and snacks,metal fragment,ice cream
+103,biological,"dietetic foods, food supplements, fortified foods",metal fragment,chicken based products
+104,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+105,biological,prepared dishes and snacks,metal fragment,chicken based products
+106,allergens,prepared dishes and snacks,metal fragment,ice cream
+107,biological,food additives and flavourings,metal fragment,ice cream
+108,fraud,prepared dishes and snacks,metal fragment,chicken based products
+109,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+110,organoleptic aspects,prepared dishes and snacks,metal fragment,ice cream
+111,biological,prepared dishes and snacks,metal fragment,ice cream
+112,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+113,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+114,biological,prepared dishes and snacks,metal fragment,chicken based products
+115,allergens,prepared dishes and snacks,metal fragment,chicken based products
+116,biological,prepared dishes and snacks,metal fragment,chicken based products
+117,biological,prepared dishes and snacks,metal fragment,chicken based products
+118,biological,prepared dishes and snacks,metal fragment,ice cream
+119,biological,non-alcoholic beverages,listeria monocytogenes,chicken based products
+120,biological,prepared dishes and snacks,metal fragment,chicken based products
+121,biological,prepared dishes and snacks,metal fragment,chicken based products
+122,biological,ices and desserts,metal fragment,chicken based products
+123,biological,prepared dishes and snacks,metal fragment,dietary supplement
+124,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+125,allergens,prepared dishes and snacks,metal fragment,chicken based products
+126,fraud,prepared dishes and snacks,metal fragment,chicken based products
+127,biological,prepared dishes and snacks,metal fragment,chicken based products
+128,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+129,biological,prepared dishes and snacks,metal fragment,chicken based products
+130,biological,ices and desserts,metal fragment,coconut juice
+131,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+132,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+133,allergens,prepared dishes and snacks,metal fragment,chicken based products
+134,allergens,prepared dishes and snacks,metal fragment,chicken based products
+135,allergens,prepared dishes and snacks,metal fragment,chicken based products
+136,allergens,prepared dishes and snacks,metal fragment,chicken based products
+137,biological,prepared dishes and snacks,metal fragment,chicken based products
+138,allergens,prepared dishes and snacks,metal fragment,chicken based products
+139,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+140,biological,prepared dishes and snacks,metal fragment,cheddar cheese
+141,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+142,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+143,allergens,prepared dishes and snacks,metal fragment,chicken based products
+144,biological,"meat, egg and dairy products",metal fragment,chicken based products
+145,allergens,prepared dishes and snacks,metal fragment,herring
+146,fraud,"meat, egg and dairy products",metal fragment,ice cream
+147,biological,prepared dishes and snacks,metal fragment,ice cream
+148,allergens,prepared dishes and snacks,metal fragment,chicken based products
+149,biological,"meat, egg and dairy products",metal fragment,chicken based products
+150,biological,prepared dishes and snacks,metal fragment,chicken based products
+151,biological,prepared dishes and snacks,metal fragment,chicken based products
+152,allergens,prepared dishes and snacks,metal fragment,chicken based products
+153,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+154,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+155,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+156,allergens,cereals and bakery products,metal fragment,chicken based products
+157,allergens,prepared dishes and snacks,metal fragment,chicken based products
+158,allergens,fruits and vegetables,metal fragment,chicken based products
+159,allergens,fruits and vegetables,metal fragment,chicken based products
+160,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+161,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+162,fraud,prepared dishes and snacks,metal fragment,chicken based products
+163,biological,prepared dishes and snacks,metal fragment,ice cream
+164,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+165,fraud,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+166,biological,prepared dishes and snacks,metal fragment,chicken based products
+167,allergens,prepared dishes and snacks,metal fragment,baby spinach
+168,biological,prepared dishes and snacks,metal fragment,chicken based products
+169,biological,prepared dishes and snacks,metal fragment,chicken based products
+170,biological,prepared dishes and snacks,metal fragment,chicken based products
+171,allergens,fruits and vegetables,metal fragment,chicken based products
+172,biological,prepared dishes and snacks,metal fragment,chicken based products
+173,biological,prepared dishes and snacks,metal fragment,ice cream
+174,allergens,prepared dishes and snacks,metal fragment,ice cream
+175,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+176,allergens,prepared dishes and snacks,metal fragment,ice cream
+177,biological,prepared dishes and snacks,metal fragment,chicken based products
+178,allergens,prepared dishes and snacks,metal fragment,chicken based products
+179,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+180,migration,prepared dishes and snacks,metal fragment,chicken based products
+181,biological,prepared dishes and snacks,metal fragment,chicken based products
+182,biological,prepared dishes and snacks,metal fragment,chicken based products
+183,biological,prepared dishes and snacks,metal fragment,chicken based products
+184,biological,prepared dishes and snacks,metal fragment,chicken based products
+185,biological,prepared dishes and snacks,metal fragment,chicken based products
+186,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+187,allergens,prepared dishes and snacks,metal fragment,chicken based products
+188,allergens,feed materials,metal fragment,chicken based products
+189,biological,cereals and bakery products,listeria monocytogenes,chicken based products
+190,biological,prepared dishes and snacks,metal fragment,cheddar cheese
+191,biological,fruits and vegetables,metal fragment,chicken based products
+192,biological,prepared dishes and snacks,metal fragment,chicken based products
+193,biological,prepared dishes and snacks,metal fragment,chicken based products
+194,allergens,prepared dishes and snacks,metal fragment,chicken based products
+195,allergens,prepared dishes and snacks,metal fragment,chicken based products
+196,allergens,prepared dishes and snacks,metal fragment,chicken based products
+197,allergens,fruits and vegetables,metal fragment,chicken based products
+198,biological,prepared dishes and snacks,metal fragment,chicken based products
+199,allergens,fruits and vegetables,listeria monocytogenes,chicken based products
+200,allergens,prepared dishes and snacks,metal fragment,chicken based products
+201,allergens,prepared dishes and snacks,metal fragment,chicken based products
+202,biological,"meat, egg and dairy products",metal fragment,chicken based products
+203,allergens,prepared dishes and snacks,metal fragment,chicken based products
+204,allergens,prepared dishes and snacks,metal fragment,chicken based products
+205,biological,prepared dishes and snacks,metal fragment,chicken based products
+206,biological,fruits and vegetables,metal fragment,chicken based products
+207,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+208,biological,food contact materials,metal fragment,chicken based products
+209,biological,prepared dishes and snacks,metal fragment,buns
+210,biological,prepared dishes and snacks,metal fragment,chicken based products
+211,fraud,prepared dishes and snacks,metal fragment,chicken based products
+212,biological,prepared dishes and snacks,metal fragment,chicken based products
+213,biological,prepared dishes and snacks,metal fragment,chicken based products
+214,biological,prepared dishes and snacks,metal fragment,chicken based products
+215,allergens,fruits and vegetables,metal fragment,chicken based products
+216,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+217,biological,"meat, egg and dairy products",metal fragment,chicken based products
+218,allergens,prepared dishes and snacks,metal fragment,chicken based products
+219,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+220,allergens,prepared dishes and snacks,metal fragment,ice cream
+221,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+222,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+223,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+224,biological,prepared dishes and snacks,metal fragment,cider
+225,biological,"meat, egg and dairy products",metal fragment,chicken based products
+226,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+227,biological,prepared dishes and snacks,metal fragment,chicken based products
+228,biological,prepared dishes and snacks,metal fragment,chicken based products
+229,biological,prepared dishes and snacks,metal fragment,chicken based products
+230,allergens,prepared dishes and snacks,metal fragment,chicken based products
+231,biological,prepared dishes and snacks,metal fragment,chicken based products
+232,biological,"meat, egg and dairy products",metal fragment,chicken based products
+233,allergens,sugars and syrups,metal fragment,chicken based products
+234,biological,"meat, egg and dairy products",inspection issues,chicken based products
+235,allergens,prepared dishes and snacks,metal fragment,chicken based products
+236,biological,prepared dishes and snacks,metal fragment,chicken based products
+237,biological,prepared dishes and snacks,metal fragment,chicken based products
+238,allergens,prepared dishes and snacks,metal fragment,chicken based products
+239,allergens,prepared dishes and snacks,metal fragment,ice cream
+240,biological,prepared dishes and snacks,metal fragment,chicken based products
+241,biological,prepared dishes and snacks,metal fragment,chicken based products
+242,biological,prepared dishes and snacks,metal fragment,chicken based products
+243,biological,prepared dishes and snacks,metal fragment,chicken based products
+244,biological,prepared dishes and snacks,metal fragment,chicken based products
+245,allergens,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+246,allergens,prepared dishes and snacks,metal fragment,chicken based products
+247,allergens,prepared dishes and snacks,metal fragment,chicken based products
+248,biological,prepared dishes and snacks,metal fragment,chicken based products
+249,biological,prepared dishes and snacks,metal fragment,sausage
+250,biological,prepared dishes and snacks,metal fragment,chicken based products
+251,biological,prepared dishes and snacks,metal fragment,chicken based products
+252,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+253,biological,prepared dishes and snacks,metal fragment,chicken based products
+254,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+255,biological,prepared dishes and snacks,metal fragment,chicken based products
+256,chemical,prepared dishes and snacks,metal fragment,chicken based products
+257,chemical,"meat, egg and dairy products",metal fragment,chicken based products
+258,allergens,prepared dishes and snacks,metal fragment,chicken based products
+259,biological,fruits and vegetables,listeria monocytogenes,chicken based products
+260,biological,prepared dishes and snacks,metal fragment,chicken based products
+261,biological,prepared dishes and snacks,metal fragment,chicken based products
+262,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+263,biological,prepared dishes and snacks,metal fragment,chicken based products
+264,biological,prepared dishes and snacks,fish and products thereof,chicken based products
+265,biological,"meat, egg and dairy products",metal fragment,chicken based products
+266,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+267,biological,prepared dishes and snacks,metal fragment,chicken based products
+268,allergens,cereals and bakery products,metal fragment,chicken based products
+269,biological,prepared dishes and snacks,metal fragment,chicken based products
+270,allergens,fruits and vegetables,metal fragment,chicken based products
+271,allergens,prepared dishes and snacks,metal fragment,chicken based products
+272,allergens,prepared dishes and snacks,metal fragment,chicken based products
+273,biological,prepared dishes and snacks,metal fragment,chicken based products
+274,migration,fruits and vegetables,metal fragment,chicken based products
+275,biological,prepared dishes and snacks,metal fragment,chicken based products
+276,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+277,allergens,prepared dishes and snacks,metal fragment,ice cream
+278,allergens,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+279,biological,prepared dishes and snacks,metal fragment,baby spinach
+280,allergens,fruits and vegetables,metal fragment,chicken based products
+281,allergens,prepared dishes and snacks,metal fragment,chicken based products
+282,allergens,prepared dishes and snacks,metal fragment,chicken based products
+283,allergens,prepared dishes and snacks,metal fragment,chicken based products
+284,fraud,prepared dishes and snacks,metal fragment,chicken based products
+285,biological,prepared dishes and snacks,metal fragment,chicken based products
+286,allergens,prepared dishes and snacks,metal fragment,chicken based products
+287,fraud,"meat, egg and dairy products",inspection issues,chicken based products
+288,allergens,prepared dishes and snacks,metal fragment,chicken based products
+289,biological,prepared dishes and snacks,metal fragment,chicken based products
+290,biological,prepared dishes and snacks,metal fragment,chicken based products
+291,allergens,prepared dishes and snacks,metal fragment,chicken based products
+292,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+293,fraud,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+294,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+295,fraud,prepared dishes and snacks,metal fragment,chicken based products
+296,allergens,prepared dishes and snacks,metal fragment,chicken based products
+297,allergens,prepared dishes and snacks,metal fragment,chicken based products
+298,allergens,prepared dishes and snacks,listeria monocytogenes,chicken based products
+299,fraud,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+300,allergens,prepared dishes and snacks,metal fragment,ice cream
+301,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+302,allergens,fruits and vegetables,metal fragment,chicken based products
+303,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+304,biological,prepared dishes and snacks,metal fragment,chicken based products
+305,allergens,prepared dishes and snacks,metal fragment,chicken based products
+306,biological,prepared dishes and snacks,metal fragment,chicken based products
+307,biological,prepared dishes and snacks,metal fragment,feta cheese
+308,biological,prepared dishes and snacks,metal fragment,chicken based products
+309,chemical,prepared dishes and snacks,metal fragment,ice cream
+310,biological,prepared dishes and snacks,metal fragment,chicken based products
+311,allergens,prepared dishes and snacks,metal fragment,chicken based products
+312,biological,prepared dishes and snacks,metal fragment,chicken based products
+313,allergens,prepared dishes and snacks,metal fragment,chicken based products
+314,biological,prepared dishes and snacks,metal fragment,chicken based products
+315,biological,"meat, egg and dairy products",metal fragment,chicken based products
+316,biological,prepared dishes and snacks,metal fragment,chicken based products
+317,allergens,fruits and vegetables,metal fragment,chicken based products
+318,biological,prepared dishes and snacks,metal fragment,chicken based products
+319,biological,"meat, egg and dairy products",metal fragment,chicken based products
+320,allergens,prepared dishes and snacks,metal fragment,chicken based products
+321,packaging defect,prepared dishes and snacks,metal fragment,chicken based products
+322,biological,"meat, egg and dairy products",metal fragment,chicken based products
+323,fraud,prepared dishes and snacks,listeria monocytogenes,chicken based products
+324,packaging defect,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+325,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+326,biological,prepared dishes and snacks,metal fragment,chicken based products
+327,biological,"meat, egg and dairy products",metal fragment,chicken based products
+328,biological,prepared dishes and snacks,metal fragment,chicken based products
+329,allergens,prepared dishes and snacks,metal fragment,chicken based products
+330,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+331,allergens,prepared dishes and snacks,metal fragment,ice cream
+332,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+333,biological,prepared dishes and snacks,metal fragment,chicken based products
+334,biological,prepared dishes and snacks,metal fragment,chicken based products
+335,biological,prepared dishes and snacks,metal fragment,chicken based products
+336,allergens,cereals and bakery products,metal fragment,chicken based products
+337,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+338,allergens,prepared dishes and snacks,metal fragment,ice cream
+339,biological,prepared dishes and snacks,metal fragment,chocolate bars
+340,allergens,prepared dishes and snacks,metal fragment,chicken based products
+341,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+342,organoleptic aspects,prepared dishes and snacks,metal fragment,chicken based products
+343,biological,prepared dishes and snacks,metal fragment,ice cream
+344,allergens,prepared dishes and snacks,metal fragment,ice cream
+345,organoleptic aspects,prepared dishes and snacks,metal fragment,chicken based products
+346,allergens,feed materials,metal fragment,chicken based products
+347,allergens,prepared dishes and snacks,metal fragment,chicken based products
+348,biological,prepared dishes and snacks,metal fragment,chicken based products
+349,fraud,"meat, egg and dairy products",metal fragment,chicken based products
+350,allergens,prepared dishes and snacks,listeria monocytogenes,chicken based products
+351,allergens,cereals and bakery products,metal fragment,chicken based products
+352,biological,prepared dishes and snacks,metal fragment,chicken based products
+353,biological,"meat, egg and dairy products",metal fragment,chicken based products
+354,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+355,allergens,prepared dishes and snacks,metal fragment,chicken based products
+356,biological,"meat, egg and dairy products",metal fragment,chicken based products
+357,allergens,"meat, egg and dairy products",metal fragment,ice cream
+358,biological,prepared dishes and snacks,metal fragment,chicken based products
+359,biological,prepared dishes and snacks,metal fragment,chicken based products
+360,biological,prepared dishes and snacks,metal fragment,chicken based products
+361,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+362,allergens,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+363,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+364,allergens,prepared dishes and snacks,metal fragment,baby spinach
+365,allergens,fruits and vegetables,metal fragment,chicken based products
+366,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+367,allergens,prepared dishes and snacks,metal fragment,ice cream
+368,allergens,fruits and vegetables,metal fragment,chicken based products
+369,biological,"meat, egg and dairy products",metal fragment,chicken based products
+370,allergens,feed materials,metal fragment,chicken based products
+371,biological,prepared dishes and snacks,metal fragment,chicken based products
+372,biological,prepared dishes and snacks,metal fragment,chicken based products
+373,allergens,prepared dishes and snacks,metal fragment,ice cream
+374,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+375,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+376,allergens,cereals and bakery products,metal fragment,chicken based products
+377,biological,prepared dishes and snacks,metal fragment,chicken based products
+378,allergens,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+379,fraud,prepared dishes and snacks,metal fragment,chicken based products
+380,biological,prepared dishes and snacks,metal fragment,chicken based products
+381,biological,"meat, egg and dairy products",metal fragment,chicken based products
+382,allergens,fruits and vegetables,metal fragment,chicken based products
+383,fraud,prepared dishes and snacks,metal fragment,chicken based products
+384,allergens,prepared dishes and snacks,metal fragment,ice cream
+385,allergens,prepared dishes and snacks,metal fragment,chicken based products
+386,biological,"meat, egg and dairy products",metal fragment,chicken based products
+387,biological,prepared dishes and snacks,metal fragment,ice cream
+388,migration,prepared dishes and snacks,metal fragment,ice cream
+389,allergens,prepared dishes and snacks,metal fragment,chicken based products
+390,fraud,prepared dishes and snacks,listeria monocytogenes,chicken based products
+391,allergens,prepared dishes and snacks,metal fragment,chicken based products
+392,allergens,prepared dishes and snacks,metal fragment,chicken based products
+393,allergens,prepared dishes and snacks,metal fragment,chicken based products
+394,biological,"meat, egg and dairy products",insufficient labelling/documentation,chicken based products
+395,allergens,prepared dishes and snacks,metal fragment,chicken based products
+396,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+397,allergens,prepared dishes and snacks,metal fragment,ice cream
+398,biological,prepared dishes and snacks,metal fragment,chicken based products
+399,biological,prepared dishes and snacks,metal fragment,chicken based products
+400,allergens,prepared dishes and snacks,metal fragment,chicken based products
+401,allergens,prepared dishes and snacks,metal fragment,chicken based products
+402,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+403,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+404,allergens,prepared dishes and snacks,metal fragment,chicken based products
+405,biological,"meat, egg and dairy products",metal fragment,chicken based products
+406,biological,"meat, egg and dairy products",metal fragment,chicken based products
+407,biological,prepared dishes and snacks,metal fragment,chicken based products
+408,biological,"meat, egg and dairy products",metal fragment,chicken based products
+409,food additives and flavourings,prepared dishes and snacks,metal fragment,chicken based products
+410,biological,prepared dishes and snacks,metal fragment,chicken based products
+411,allergens,prepared dishes and snacks,metal fragment,chicken based products
+412,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+413,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+414,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+415,allergens,prepared dishes and snacks,metal fragment,chicken based products
+416,allergens,prepared dishes and snacks,metal fragment,chicken based products
+417,biological,ices and desserts,metal fragment,chicken based products
+418,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+419,biological,prepared dishes and snacks,metal fragment,chicken based products
+420,biological,fruits and vegetables,metal fragment,chicken based products
+421,allergens,"meat, egg and dairy products",inspection issues,chicken based products
+422,biological,prepared dishes and snacks,metal fragment,chicken based products
+423,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+424,biological,prepared dishes and snacks,metal fragment,baby food
+425,biological,"meat, egg and dairy products",metal fragment,baby food
+426,allergens,prepared dishes and snacks,metal fragment,chicken based products
+427,allergens,prepared dishes and snacks,metal fragment,baby food
+428,biological,"meat, egg and dairy products",listeria monocytogenes,chicken based products
+429,allergens,prepared dishes and snacks,metal fragment,chicken based products
+430,allergens,prepared dishes and snacks,metal fragment,chicken based products
+431,chemical,prepared dishes and snacks,metal fragment,chicken based products
+432,allergens,prepared dishes and snacks,metal fragment,chicken based products
+433,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+434,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+435,allergens,prepared dishes and snacks,metal fragment,ice cream
+436,allergens,prepared dishes and snacks,metal fragment,chicken based products
+437,biological,prepared dishes and snacks,metal fragment,baby food
+438,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+439,organoleptic aspects,prepared dishes and snacks,metal fragment,chicken based products
+440,allergens,fruits and vegetables,metal fragment,chicken based products
+441,biological,prepared dishes and snacks,metal fragment,chicken based products
+442,biological,prepared dishes and snacks,metal fragment,baby spinach
+443,fraud,prepared dishes and snacks,metal fragment,chicken based products
+444,biological,prepared dishes and snacks,metal fragment,baby food
+445,biological,prepared dishes and snacks,metal fragment,baby food
+446,allergens,prepared dishes and snacks,metal fragment,baby food
+447,biological,"meat, egg and dairy products",inspection issues,chicken based products
+448,allergens,prepared dishes and snacks,metal fragment,chicken based products
+449,allergens,prepared dishes and snacks,metal fragment,chicken based products
+450,biological,prepared dishes and snacks,metal fragment,chicken based products
+451,biological,prepared dishes and snacks,metal fragment,ice cream
+452,allergens,prepared dishes and snacks,metal fragment,chicken based products
+453,allergens,prepared dishes and snacks,metal fragment,ice cream
+454,biological,prepared dishes and snacks,metal fragment,chicken based products
+455,biological,prepared dishes and snacks,metal fragment,chicken based products
+456,biological,cereals and bakery products,listeria monocytogenes,chicken based products
+457,allergens,prepared dishes and snacks,metal fragment,chicken based products
+458,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+459,allergens,prepared dishes and snacks,metal fragment,chicken based products
+460,allergens,prepared dishes and snacks,metal fragment,ice cream
+461,biological,"meat, egg and dairy products",metal fragment,chicken based products
+462,fraud,prepared dishes and snacks,metal fragment,chicken based products
+463,allergens,prepared dishes and snacks,metal fragment,chicken based products
+464,allergens,cereals and bakery products,metal fragment,chicken based products
+465,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+466,biological,herbs and spices,metal fragment,chicken based products
+467,biological,prepared dishes and snacks,metal fragment,chicken based products
+468,foreign bodies,prepared dishes and snacks,metal fragment,chicken based products
+469,fraud,prepared dishes and snacks,listeria monocytogenes,chicken based products
+470,biological,prepared dishes and snacks,metal fragment,chicken based products
+471,biological,prepared dishes and snacks,metal fragment,chicken based products
+472,biological,prepared dishes and snacks,metal fragment,chicken based products
+473,allergens,prepared dishes and snacks,metal fragment,chicken based products
+474,allergens,prepared dishes and snacks,metal fragment,chicken based products
+475,foreign bodies,"soups, broths, sauces and condiments",metal fragment,chicken based products
+476,biological,prepared dishes and snacks,metal fragment,chicken based products
+477,biological,prepared dishes and snacks,unauthorised substance ethylene oxide,chicken based products
+478,biological,"meat, egg and dairy products",inspection issues,chicken based products
+479,allergens,prepared dishes and snacks,metal fragment,chicken based products
+480,allergens,prepared dishes and snacks,metal fragment,chicken based products
+481,fraud,prepared dishes and snacks,metal fragment,chicken based products
+482,foreign bodies,prepared dishes and snacks,metal fragment,chicken based products
+483,biological,prepared dishes and snacks,metal fragment,chicken based products
+484,allergens,prepared dishes and snacks,metal fragment,chicken based products
+485,allergens,prepared dishes and snacks,metal fragment,chicken based products
+486,allergens,prepared dishes and snacks,metal fragment,ice cream
+487,biological,prepared dishes and snacks,metal fragment,chicken based products
+488,allergens,prepared dishes and snacks,metal fragment,chicken based products
+489,biological,prepared dishes and snacks,metal fragment,ice cream
+490,biological,prepared dishes and snacks,metal fragment,chicken based products
+491,allergens,prepared dishes and snacks,metal fragment,ice cream
+492,biological,prepared dishes and snacks,metal fragment,chicken based products
+493,biological,prepared dishes and snacks,metal fragment,ice cream
+494,allergens,prepared dishes and snacks,metal fragment,chicken based products
+495,allergens,prepared dishes and snacks,metal fragment,chicken based products
+496,allergens,"meat, egg and dairy products",metal fragment,cheese spread
+497,allergens,prepared dishes and snacks,metal fragment,chicken based products
+498,allergens,cereals and bakery products,metal fragment,chicken based products
+499,allergens,prepared dishes and snacks,metal fragment,chicken based products
+500,biological,prepared dishes and snacks,metal fragment,chicken based products
+501,biological,prepared dishes and snacks,metal fragment,chicken based products
+502,fraud,prepared dishes and snacks,metal fragment,chicken based products
+503,biological,feed materials,metal fragment,protein powder
+504,allergens,cereals and bakery products,metal fragment,chicken based products
+505,biological,prepared dishes and snacks,metal fragment,ice cream
+506,biological,prepared dishes and snacks,metal fragment,chicken based products
+507,allergens,feed materials,metal fragment,chicken based products
+508,allergens,ices and desserts,metal fragment,chicken based products
+509,biological,prepared dishes and snacks,metal fragment,chicken based products
+510,allergens,herbs and spices,metal fragment,chicken based products
+511,biological,prepared dishes and snacks,metal fragment,dietary supplement
+512,biological,prepared dishes and snacks,metal fragment,onions
+513,allergens,prepared dishes and snacks,metal fragment,chicken based products
+514,biological,prepared dishes and snacks,metal fragment,chicken based products
+515,allergens,prepared dishes and snacks,metal fragment,chicken based products
+516,fraud,prepared dishes and snacks,listeria monocytogenes,chicken based products
+517,biological,"meat, egg and dairy products",metal fragment,chicken based products
+518,biological,"meat, egg and dairy products",glass fragment,chicken based products
+519,biological,prepared dishes and snacks,metal fragment,chicken based products
+520,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+521,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+522,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+523,biological,prepared dishes and snacks,listeria monocytogenes,other not classified meat products
+524,fraud,prepared dishes and snacks,listeria monocytogenes,chicken based products
+525,biological,prepared dishes and snacks,metal fragment,almonds
+526,biological,prepared dishes and snacks,metal fragment,other not classified meat products
+527,allergens,prepared dishes and snacks,metal fragment,chicken based products
+528,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+529,allergens,prepared dishes and snacks,metal fragment,ice cream
+530,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+531,biological,prepared dishes and snacks,metal fragment,chicken based products
+532,organoleptic aspects,prepared dishes and snacks,metal fragment,chicken based products
+533,allergens,prepared dishes and snacks,metal fragment,chicken based products
+534,biological,prepared dishes and snacks,listeria monocytogenes,chicken based products
+535,allergens,prepared dishes and snacks,metal fragment,chicken based products
+536,foreign bodies,prepared dishes and snacks,metal fragment,chicken based products
+537,biological,prepared dishes and snacks,metal fragment,sauces
+538,foreign bodies,prepared dishes and snacks,metal fragment,chicken based products
+539,biological,prepared dishes and snacks,metal fragment,chicken based products
+540,fraud,prepared dishes and snacks,metal fragment,chicken based products
+541,biological,prepared dishes and snacks,metal fragment,ice cream
+542,biological,prepared dishes and snacks,metal fragment,chicken based products
+543,allergens,"meat, egg and dairy products",metal fragment,chicken based products
+544,biological,prepared dishes and snacks,metal fragment,chicken based products
+545,fraud,prepared dishes and snacks,metal fragment,chicken based products
+546,biological,prepared dishes and snacks,metal fragment,yoghurt
+547,biological,"meat, egg and dairy products",metal fragment,chicken based products
+548,allergens,prepared dishes and snacks,metal fragment,chicken based products
+549,allergens,prepared dishes and snacks,metal fragment,chicken based products
+550,allergens,prepared dishes and snacks,metal fragment,chicken based products
+551,biological,prepared dishes and snacks,metal fragment,chicken based products
+552,biological,prepared dishes and snacks,metal fragment,chicken based products
+553,biological,prepared dishes and snacks,metal fragment,chicken based products
+554,allergens,prepared dishes and snacks,metal fragment,chicken based products
+555,allergens,prepared dishes and snacks,metal fragment,chicken based products
+556,biological,prepared dishes and snacks,metal fragment,chocolate
+557,biological,prepared dishes and snacks,listeria monocytogenes,pancakes
+558,biological,prepared dishes and snacks,metal fragment,chicken based products
+559,biological,prepared dishes and snacks,metal fragment,chicken based products
+560,allergens,prepared dishes and snacks,metal fragment,shrimps
+561,allergens,prepared dishes and snacks,metal fragment,ice cream
+562,biological,prepared dishes and snacks,metal fragment,chicken based products
+563,allergens,fruits and vegetables,metal fragment,chicken based products
+564,biological,prepared dishes and snacks,metal fragment,chicken based products

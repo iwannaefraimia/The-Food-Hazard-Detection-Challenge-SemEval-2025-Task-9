@@ -1,0 +1,566 @@
+index,hazard_category,product_category,hazard,product
+0,fraud,prepared dishes and snacks,escherichia coli,mushrooms
+1,fraud,prepared dishes and snacks,salmonella,iced tea
+2,fraud,"meat, egg and dairy products",salmonella,canned chicken
+3,allergens,"meat, egg and dairy products",salmonella,muffins
+4,fraud,prepared dishes and snacks,salmonella,tea
+5,foreign bodies,prepared dishes and snacks,salmonella,dried plums
+6,migration,ices and desserts,escherichia coli,black pepper
+7,migration,prepared dishes and snacks,salmonella,jellies
+8,foreign bodies,prepared dishes and snacks,salmonella,spices
+9,migration,prepared dishes and snacks,salmonella,soy sauce
+10,foreign bodies,prepared dishes and snacks,salmonella,chocolate eggs
+11,foreign bodies,"meat, egg and dairy products",metal fragment,breakfast cereals
+12,foreign bodies,prepared dishes and snacks,salmonella,juices
+13,allergens,prepared dishes and snacks,salmonella,salads
+14,foreign bodies,ices and desserts,salmonella,soy sauce
+15,allergens,prepared dishes and snacks,glass fragment,cereal
+16,allergens,prepared dishes and snacks,escherichia coli,dried mushrooms
+17,chemical,prepared dishes and snacks,salmonella,soy sauce
+18,other hazard,prepared dishes and snacks,salmonella,curry
+19,foreign bodies,"meat, egg and dairy products",metal fragment,bottled mineral water
+20,migration,prepared dishes and snacks,metal fragment,soy sauce
+21,allergens,prepared dishes and snacks,salmonella,chicken breast
+22,foreign bodies,prepared dishes and snacks,salmonella,pork pie
+23,allergens,prepared dishes and snacks,salmonella,jellies
+24,allergens,prepared dishes and snacks,salmonella,noodles
+25,other hazard,prepared dishes and snacks,escherichia coli,guacamole
+26,allergens,prepared dishes and snacks,inspection issues,guacamole
+27,migration,prepared dishes and snacks,escherichia coli,salami
+28,allergens,prepared dishes and snacks,salmonella,guacamole
+29,allergens,prepared dishes and snacks,inspection issues,guacamole
+30,foreign bodies,prepared dishes and snacks,salmonella,soy sauce
+31,migration,prepared dishes and snacks,escherichia coli,sliced ham
+32,allergens,prepared dishes and snacks,salmonella,vegetable based products
+33,food additives and flavourings,prepared dishes and snacks,escherichia coli,canned corn
+34,biological,"meat, egg and dairy products",escherichia coli,sauce
+35,biological,prepared dishes and snacks,escherichia coli,chicken and chicken preparations
+36,allergens,prepared dishes and snacks,salmonella,ground beef
+37,foreign bodies,prepared dishes and snacks,escherichia coli,salami
+38,allergens,prepared dishes and snacks,escherichia coli,guacamole
+39,allergens,prepared dishes and snacks,escherichia coli,soy sauce
+40,foreign bodies,prepared dishes and snacks,salmonella,soy sauce
+41,foreign bodies,prepared dishes and snacks,salmonella,soy sauce
+42,foreign bodies,prepared dishes and snacks,salmonella,guacamole
+43,other hazard,prepared dishes and snacks,salmonella,breakfast cereals
+44,allergens,prepared dishes and snacks,glass fragment,cooked ham
+45,allergens,prepared dishes and snacks,escherichia coli,candies
+46,allergens,prepared dishes and snacks,salmonella,spring water
+47,allergens,prepared dishes and snacks,inspection issues,soy sauce
+48,allergens,prepared dishes and snacks,salmonella,soy sauce
+49,food additives and flavourings,"meat, egg and dairy products",salmonella,desserts
+50,allergens,"meat, egg and dairy products",salmonella,fresh apples
+51,allergens,"soups, broths, sauces and condiments",salmonella,halva
+52,chemical,prepared dishes and snacks,escherichia coli,goat cheese
+53,allergens,prepared dishes and snacks,salmonella,mashed chickpeas (hummus)
+54,other hazard,prepared dishes and snacks,salmonella,frozen vegetables
+55,allergens,prepared dishes and snacks,salmonella,soy sauce
+56,allergens,prepared dishes and snacks,salmonella,basil pesto sauce
+57,allergens,prepared dishes and snacks,salmonella,ground beef
+58,other hazard,prepared dishes and snacks,salmonella,sliced ham
+59,foreign bodies,prepared dishes and snacks,salmonella,white chocolate
+60,foreign bodies,prepared dishes and snacks,salmonella,rice snack
+61,fraud,prepared dishes and snacks,salmonella,prawns
+62,foreign bodies,prepared dishes and snacks,salmonella,sliced ham
+63,foreign bodies,fruits and vegetables,escherichia coli,chicken products - frozen
+64,other hazard,"meat, egg and dairy products",salmonella,sandwiches
+65,chemical,"meat, egg and dairy products",glass fragment,cake decoration
+66,fraud,"meat, egg and dairy products",salmonella,sunflower seed
+67,foreign bodies,"meat, egg and dairy products",salmonella,pet feed
+68,allergens,prepared dishes and snacks,metal fragment,guacamole
+69,allergens,prepared dishes and snacks,salmonella,potato chips
+70,allergens,prepared dishes and snacks,salmonella,ground beef
+71,allergens,prepared dishes and snacks,glass fragment,beef products
+72,allergens,prepared dishes and snacks,salmonella,plastics
+73,foreign bodies,"meat, egg and dairy products",salmonella,cooked ham
+74,other hazard,"meat, egg and dairy products",salmonella,chocolate and hazelnut spread
+75,migration,prepared dishes and snacks,salmonella,basil
+76,allergens,prepared dishes and snacks,inspection issues,cottage cheese
+77,allergens,prepared dishes and snacks,escherichia coli,spring water
+78,other hazard,prepared dishes and snacks,salmonella,meatloaf
+79,allergens,prepared dishes and snacks,escherichia coli,soup
+80,allergens,"meat, egg and dairy products",salmonella,soy sauce
+81,allergens,"meat, egg and dairy products",salmonella,guacamole
+82,allergens,prepared dishes and snacks,salmonella,guacamole
+83,fraud,prepared dishes and snacks,escherichia coli,bottled mineral water
+84,other hazard,prepared dishes and snacks,escherichia coli,peanuts
+85,chemical,prepared dishes and snacks,salmonella,sunflower seed
+86,allergens,fruits and vegetables,glass fragment,lasagne
+87,allergens,"meat, egg and dairy products",escherichia coli,black pepper
+88,foreign bodies,prepared dishes and snacks,escherichia coli,fruit juice
+89,other hazard,"meat, egg and dairy products",metal fragment,salmon
+90,foreign bodies,"meat, egg and dairy products",escherichia coli,chia seeds
+91,allergens,cereals and bakery products,glass fragment,pistachio nuts
+92,foreign bodies,prepared dishes and snacks,glass fragment,rice snack
+93,allergens,prepared dishes and snacks,glass fragment,alfalfa sprouts
+94,foreign bodies,prepared dishes and snacks,inspection issues,other not classified meat products
+95,allergens,"meat, egg and dairy products",salmonella,halva
+96,foreign bodies,prepared dishes and snacks,salmonella,buns
+97,foreign bodies,"meat, egg and dairy products",listeria monocytogenes,salami sticks
+98,foreign bodies,"meat, egg and dairy products",salmonella,seasoning mix
+99,allergens,prepared dishes and snacks,glass fragment,Precooked cooked pork meat products
+100,foreign bodies,"meat, egg and dairy products",salmonella,coconut milk
+101,foreign bodies,"meat, egg and dairy products",escherichia coli,soy sauce
+102,other hazard,prepared dishes and snacks,escherichia coli,protein balls
+103,chemical,prepared dishes and snacks,glass fragment,dried plums
+104,allergens,prepared dishes and snacks,escherichia coli,chilled salads
+105,allergens,"meat, egg and dairy products",salmonella,cbd products
+106,allergens,prepared dishes and snacks,salmonella,jellies
+107,allergens,"meat, egg and dairy products",glass fragment,cakes
+108,allergens,cereals and bakery products,salmonella,frozen hash browns
+109,allergens,prepared dishes and snacks,salmonella,chicken meat meal
+110,foreign bodies,prepared dishes and snacks,escherichia coli,dried beef meat
+111,foreign bodies,prepared dishes and snacks,salmonella,tofu
+112,allergens,prepared dishes and snacks,escherichia coli,meat broth
+113,foreign bodies,prepared dishes and snacks,metal fragment,salt
+114,other hazard,prepared dishes and snacks,escherichia coli,cheese
+115,allergens,prepared dishes and snacks,salmonella,guacamole
+116,biological,"meat, egg and dairy products",salmonella,tahini
+117,biological,prepared dishes and snacks,listeria monocytogenes,rice snack
+118,chemical,prepared dishes and snacks,metal fragment,all purpose seasoning
+119,foreign bodies,"meat, egg and dairy products",listeria monocytogenes,mitragyna speciosa (kratom)
+120,other hazard,prepared dishes and snacks,salmonella,jam
+121,foreign bodies,"meat, egg and dairy products",glass fragment,peanuts
+122,chemical,"meat, egg and dairy products",escherichia coli,peanuts
+123,foreign bodies,"meat, egg and dairy products",salmonella,various beef products
+124,biological,"meat, egg and dairy products",glass fragment,guacamole
+125,allergens,prepared dishes and snacks,inspection issues,milk chocolate covered raisins
+126,biological,prepared dishes and snacks,metal fragment,candies
+127,allergens,prepared dishes and snacks,salmonella,dried shrimp noodles
+128,foreign bodies,prepared dishes and snacks,salmonella,seafood products
+129,biological,prepared dishes and snacks,glass fragment,basil pesto sauce
+130,foreign bodies,"meat, egg and dairy products",glass fragment,baking mix
+131,chemical,prepared dishes and snacks,glass fragment,chorizo
+132,biological,prepared dishes and snacks,metal fragment,sandwiches
+133,foreign bodies,prepared dishes and snacks,metal fragment,tilapia
+134,allergens,cereals and bakery products,inspection issues,pudding
+135,allergens,prepared dishes and snacks,salmonella,guacamole
+136,allergens,prepared dishes and snacks,inspection issues,frozen fish fillets
+137,migration,prepared dishes and snacks,salmonella,chilli sauce
+138,allergens,prepared dishes and snacks,metal fragment,frozen raw ground beef
+139,allergens,prepared dishes and snacks,metal fragment,guacamole
+140,chemical,"meat, egg and dairy products",salmonella,Fishes not identified
+141,allergens,prepared dishes and snacks,salmonella,candies
+142,biological,prepared dishes and snacks,escherichia coli,salami
+143,allergens,prepared dishes and snacks,metal fragment,vegetable preparation
+144,allergens,prepared dishes and snacks,metal fragment,milk products
+145,allergens,"meat, egg and dairy products",escherichia coli,chicken and chicken preparations
+146,foreign bodies,prepared dishes and snacks,metal fragment,tilapia
+147,foreign bodies,prepared dishes and snacks,salmonella,chilli sauce
+148,allergens,cereals and bakery products,mustard and products thereof,guacamole
+149,other hazard,"meat, egg and dairy products",escherichia coli,frozen beef patties
+150,migration,prepared dishes and snacks,escherichia coli,sesame paste
+151,migration,prepared dishes and snacks,escherichia coli,baby food
+152,fraud,prepared dishes and snacks,metal fragment,dietary supplement
+153,allergens,prepared dishes and snacks,metal fragment,sausage
+154,biological,prepared dishes and snacks,salmonella,ready to eat - cook meals
+155,fraud,prepared dishes and snacks,metal fragment,chicken based products
+156,allergens,prepared dishes and snacks,metal fragment,mozzarella
+157,allergens,prepared dishes and snacks,metal fragment,guacamole
+158,allergens,prepared dishes and snacks,metal fragment,wafers
+159,allergens,cereals and bakery products,metal fragment,noodle
+160,allergens,prepared dishes and snacks,metal fragment,fruit bars
+161,other hazard,prepared dishes and snacks,escherichia coli,seasoning
+162,allergens,ices and desserts,salmonella,guacamole
+163,allergens,"meat, egg and dairy products",glass fragment,chicken preparations
+164,other hazard,prepared dishes and snacks,metal fragment,salami
+165,fraud,prepared dishes and snacks,metal fragment,diced beef
+166,chemical,"meat, egg and dairy products",salmonella,chilled salads
+167,allergens,"meat, egg and dairy products",escherichia coli,fresh parsley
+168,chemical,"meat, egg and dairy products",salmonella,salmon
+169,foreign bodies,"meat, egg and dairy products",glass fragment,mitragyna speciosa (kratom)
+170,allergens,prepared dishes and snacks,salmonella,wine
+171,allergens,prepared dishes and snacks,metal fragment,dumplings
+172,foreign bodies,"meat, egg and dairy products",escherichia coli,onions
+173,foreign bodies,prepared dishes and snacks,salmonella,tofu
+174,allergens,"meat, egg and dairy products",glass fragment,coconuts
+175,allergens,prepared dishes and snacks,metal fragment,fresh parsley
+176,allergens,prepared dishes and snacks,escherichia coli,cereal
+177,allergens,prepared dishes and snacks,salmonella,sushi
+178,allergens,prepared dishes and snacks,inspection issues,swiss rolls
+179,foreign bodies,prepared dishes and snacks,metal fragment,chicken noodle soup
+180,chemical,prepared dishes and snacks,glass fragment,almonds
+181,other hazard,prepared dishes and snacks,salmonella,sugar
+182,allergens,prepared dishes and snacks,salmonella,other types of meat
+183,foreign bodies,prepared dishes and snacks,salmonella,chicken meat products
+184,allergens,prepared dishes and snacks,salmonella,lamb
+185,allergens,prepared dishes and snacks,cereals containing gluten and products thereof,other types of meat
+186,allergens,prepared dishes and snacks,metal fragment,ravioli
+187,allergens,cereals and bakery products,salmonella,guacamole
+188,allergens,prepared dishes and snacks,metal fragment,tzatziki sauce
+189,chemical,"meat, egg and dairy products",escherichia coli,walnuts
+190,chemical,prepared dishes and snacks,escherichia coli,spices
+191,foreign bodies,"meat, egg and dairy products",glass fragment,sandwiches
+192,chemical,"meat, egg and dairy products",glass fragment,seaweed preparations
+193,allergens,prepared dishes and snacks,salmonella,tofu
+194,allergens,prepared dishes and snacks,salmonella,cream chocolate pie
+195,allergens,prepared dishes and snacks,inspection issues,cereal
+196,allergens,prepared dishes and snacks,salmonella,cream chocolate pie
+197,allergens,prepared dishes and snacks,escherichia coli,crisp cheese snack
+198,allergens,prepared dishes and snacks,salmonella,soy sauce
+199,allergens,prepared dishes and snacks,metal fragment,desserts
+200,allergens,prepared dishes and snacks,metal fragment,guacamole
+201,allergens,prepared dishes and snacks,escherichia coli,dip-sauce
+202,chemical,"meat, egg and dairy products",salmonella,jellies
+203,allergens,prepared dishes and snacks,salmonella,guacamole
+204,allergens,prepared dishes and snacks,salmonella,guacamole
+205,allergens,prepared dishes and snacks,glass fragment,mineral water
+206,foreign bodies,"meat, egg and dairy products",salmonella,bagels
+207,foreign bodies,"meat, egg and dairy products",salmonella,brewer's yeast
+208,foreign bodies,"meat, egg and dairy products",glass fragment,salads
+209,chemical,prepared dishes and snacks,listeria monocytogenes,fresh vegetables
+210,foreign bodies,"meat, egg and dairy products",salmonella,flour
+211,allergens,prepared dishes and snacks,salmonella,various bakery products
+212,other hazard,"meat, egg and dairy products",glass fragment,eggs
+213,allergens,"meat, egg and dairy products",salmonella,various cheeses
+214,foreign bodies,prepared dishes and snacks,glass fragment,snack mix
+215,allergens,prepared dishes and snacks,metal fragment,pudding
+216,other hazard,prepared dishes and snacks,escherichia coli,salami
+217,foreign bodies,"meat, egg and dairy products",escherichia coli,ground beef meat
+218,allergens,prepared dishes and snacks,metal fragment,guacamole
+219,allergens,prepared dishes and snacks,salmonella,crispbread
+220,allergens,"meat, egg and dairy products",inspection issues,instant coffee
+221,biological,"meat, egg and dairy products",escherichia coli,milk and milk products
+222,allergens,prepared dishes and snacks,escherichia coli,lemonade (lemon soda)
+223,allergens,prepared dishes and snacks,metal fragment,ravioli
+224,foreign bodies,"meat, egg and dairy products",glass fragment,thermal processed beef meat
+225,other hazard,prepared dishes and snacks,metal fragment,beef products
+226,allergens,"meat, egg and dairy products",salmonella,cow milk cheese
+227,chemical,"meat, egg and dairy products",salmonella,coconut milk
+228,allergens,prepared dishes and snacks,salmonella,frozen ready to eat products
+229,allergens,prepared dishes and snacks,salmonella,palm oil
+230,allergens,"meat, egg and dairy products",escherichia coli,cheese
+231,chemical,prepared dishes and snacks,salmonella,ready to eat - cook meals
+232,foreign bodies,prepared dishes and snacks,metal fragment,cookies
+233,allergens,prepared dishes and snacks,escherichia coli,baby food
+234,allergens,prepared dishes and snacks,escherichia coli,chicken breast
+235,allergens,prepared dishes and snacks,metal fragment,green bean
+236,allergens,prepared dishes and snacks,salmonella,drinking chocolate powder
+237,chemical,"meat, egg and dairy products",salmonella,salmon
+238,allergens,prepared dishes and snacks,inspection issues,soy sauce
+239,allergens,"meat, egg and dairy products",metal fragment,candies
+240,foreign bodies,"meat, egg and dairy products",glass fragment,Fishes not identified
+241,other hazard,"meat, egg and dairy products",glass fragment,potatoes
+242,foreign bodies,"meat, egg and dairy products",glass fragment,soya drink
+243,allergens,prepared dishes and snacks,salmonella,frozen vegetables mix
+244,other hazard,"meat, egg and dairy products",salmonella,bagels
+245,allergens,prepared dishes and snacks,metal fragment,soup
+246,allergens,prepared dishes and snacks,escherichia coli,white chocolate
+247,allergens,"meat, egg and dairy products",metal fragment,soy sauce
+248,foreign bodies,prepared dishes and snacks,glass fragment,pizza
+249,chemical,prepared dishes and snacks,escherichia coli,soy sauce
+250,allergens,prepared dishes and snacks,metal fragment,other types of meat
+251,other hazard,"meat, egg and dairy products",glass fragment,snack mix
+252,allergens,prepared dishes and snacks,escherichia coli,ground turmeric
+253,foreign bodies,"meat, egg and dairy products",glass fragment,mixed vegetables
+254,other hazard,prepared dishes and snacks,escherichia coli,frozen hash browns
+255,foreign bodies,"meat, egg and dairy products",metal fragment,poultry
+256,other hazard,prepared dishes and snacks,salmonella,soup
+257,allergens,fruits and vegetables,escherichia coli,paella
+258,allergens,"meat, egg and dairy products",escherichia coli,hot dog sausages
+259,foreign bodies,"meat, egg and dairy products",metal fragment,onions
+260,allergens,"meat, egg and dairy products",escherichia coli,soy sauce
+261,chemical,"meat, egg and dairy products",escherichia coli,milk products
+262,other hazard,"meat, egg and dairy products",escherichia coli,dried coconut
+263,foreign bodies,prepared dishes and snacks,salmonella,cupcakes
+264,foreign bodies,"meat, egg and dairy products",escherichia coli,gluten free bread
+265,foreign bodies,"meat, egg and dairy products",escherichia coli,soy sauce
+266,chemical,"meat, egg and dairy products",metal fragment,frozen pork preparations
+267,allergens,"meat, egg and dairy products",escherichia coli,pork belly
+268,allergens,prepared dishes and snacks,metal fragment,sandwiches
+269,allergens,fruits and vegetables,metal fragment,raw milk
+270,allergens,prepared dishes and snacks,metal fragment,wafers
+271,allergens,prepared dishes and snacks,escherichia coli,Precooked cooked pork meat products
+272,allergens,prepared dishes and snacks,glass fragment,ginger powder
+273,foreign bodies,prepared dishes and snacks,metal fragment,milk
+274,allergens,cereals and bakery products,listeria monocytogenes,cottage cheese
+275,allergens,"meat, egg and dairy products",glass fragment,hot dog sausages
+276,biological,prepared dishes and snacks,metal fragment,soya drink
+277,allergens,prepared dishes and snacks,peanuts and products thereof,Fishes not identified
+278,biological,prepared dishes and snacks,metal fragment,chicken products - frozen
+279,allergens,prepared dishes and snacks,glass fragment,vitamins supplement
+280,allergens,prepared dishes and snacks,metal fragment,liquorice
+281,allergens,cereals and bakery products,salmonella,cultivated fungi
+282,allergens,prepared dishes and snacks,metal fragment,cream cheese
+283,allergens,"meat, egg and dairy products",inspection issues,jam
+284,chemical,"meat, egg and dairy products",salmonella,cereal
+285,foreign bodies,prepared dishes and snacks,glass fragment,soup
+286,allergens,"meat, egg and dairy products",inspection issues,dried coconut
+287,allergens,prepared dishes and snacks,salmonella,sweeteners
+288,allergens,prepared dishes and snacks,salmonella,dark chocolates
+289,foreign bodies,"meat, egg and dairy products",escherichia coli,mitragyna speciosa (kratom)
+290,migration,"meat, egg and dairy products",escherichia coli,potatoes
+291,allergens,prepared dishes and snacks,escherichia coli,meatloaf
+292,allergens,prepared dishes and snacks,metal fragment,ravioli
+293,allergens,prepared dishes and snacks,salmonella,sandwiches
+294,allergens,prepared dishes and snacks,metal fragment,frozen lobster
+295,foreign bodies,prepared dishes and snacks,escherichia coli,dumplings
+296,allergens,prepared dishes and snacks,glass fragment,coconuts
+297,allergens,prepared dishes and snacks,glass fragment,meatloaf
+298,allergens,prepared dishes and snacks,glass fragment,pancakes
+299,biological,prepared dishes and snacks,metal fragment,other not classified meat products
+300,allergens,prepared dishes and snacks,salmonella,white chocolate
+301,allergens,"meat, egg and dairy products",escherichia coli,pet feed
+302,allergens,prepared dishes and snacks,peanuts and products thereof,breakfast cereals
+303,allergens,"meat, egg and dairy products",metal fragment,basil
+304,foreign bodies,"meat, egg and dairy products",glass fragment,pasta salad
+305,allergens,prepared dishes and snacks,glass fragment,cous cous
+306,foreign bodies,"meat, egg and dairy products",escherichia coli,macadamia nuts
+307,allergens,prepared dishes and snacks,metal fragment,frozen beef patties
+308,biological,seafood,glass fragment,seasoning
+309,allergens,prepared dishes and snacks,salmonella,baby food
+310,foreign bodies,prepared dishes and snacks,salmonella,pastry tartlets
+311,allergens,"meat, egg and dairy products",metal fragment,hot dog sausages
+312,allergens,prepared dishes and snacks,salmonella,pork belly
+313,allergens,prepared dishes and snacks,metal fragment,crackers
+314,allergens,prepared dishes and snacks,salmonella,frozen vegetables
+315,foreign bodies,"meat, egg and dairy products",salmonella,milk powder
+316,allergens,prepared dishes and snacks,listeria monocytogenes,brownies
+317,biological,prepared dishes and snacks,salmonella,dressing sauces
+318,allergens,"meat, egg and dairy products",salmonella,spice mix
+319,foreign bodies,"meat, egg and dairy products",insects,meatloaf
+320,allergens,"meat, egg and dairy products",inspection issues,frozen pie
+321,allergens,prepared dishes and snacks,metal fragment,protein bars
+322,foreign bodies,prepared dishes and snacks,metal fragment,cooked ham
+323,allergens,prepared dishes and snacks,salmonella,chocolate bars
+324,allergens,"meat, egg and dairy products",escherichia coli,meatloaf
+325,food additives and flavourings,cereals and bakery products,salmonella,crispbread
+326,migration,"meat, egg and dairy products",salmonella,cheese spread
+327,allergens,prepared dishes and snacks,metal fragment,iced tea
+328,allergens,prepared dishes and snacks,salmonella,soya drink
+329,allergens,prepared dishes and snacks,inspection issues,frozen hash browns
+330,foreign bodies,prepared dishes and snacks,metal fragment,chilled chicken
+331,allergens,cereals and bakery products,salmonella,vegetable based products
+332,allergens,prepared dishes and snacks,metal fragment,various prepared dishes
+333,food additives and flavourings,prepared dishes and snacks,escherichia coli,basil
+334,allergens,"meat, egg and dairy products",sulphur dioxide,mashed chickpeas (hummus)
+335,foreign bodies,"meat, egg and dairy products",escherichia coli,sesame seeds
+336,allergens,prepared dishes and snacks,metal fragment,prepared dish
+337,allergens,"meat, egg and dairy products",metal fragment,kale
+338,allergens,prepared dishes and snacks,salmonella,cookies
+339,fraud,prepared dishes and snacks,glass fragment,guacamole
+340,allergens,cereals and bakery products,salmonella,dried shrimp noodles
+341,allergens,prepared dishes and snacks,metal fragment,organic figs
+342,foreign bodies,prepared dishes and snacks,glass fragment,noodle soup
+343,fraud,"meat, egg and dairy products",escherichia coli,soy sauce
+344,allergens,prepared dishes and snacks,salmonella,sesame paste
+345,fraud,prepared dishes and snacks,glass fragment,vegetable based products
+346,allergens,prepared dishes and snacks,metal fragment,brown rice
+347,allergens,"meat, egg and dairy products",glass fragment,mango
+348,foreign bodies,"meat, egg and dairy products",sulphur dioxide,mashed chickpeas (hummus)
+349,allergens,prepared dishes and snacks,escherichia coli,frozen lobster
+350,allergens,prepared dishes and snacks,salmonella,salads
+351,allergens,prepared dishes and snacks,metal fragment,soybean
+352,allergens,prepared dishes and snacks,salmonella,yogurt raisins
+353,other hazard,"meat, egg and dairy products",metal fragment,camembert
+354,allergens,prepared dishes and snacks,metal fragment,frozen beef products
+355,allergens,"meat, egg and dairy products",inspection issues,milk powder
+356,foreign bodies,prepared dishes and snacks,metal fragment,vegetable based products
+357,allergens,prepared dishes and snacks,glass fragment,curry
+358,chemical,prepared dishes and snacks,escherichia coli,gravy mix
+359,foreign bodies,"meat, egg and dairy products",escherichia coli,concentrated apples
+360,fraud,"meat, egg and dairy products",glass fragment,cauliflower
+361,allergens,"cocoa and cocoa preparations, coffee and tea",escherichia coli,milk products
+362,biological,prepared dishes and snacks,metal fragment,frozen pork preparations
+363,allergens,prepared dishes and snacks,metal fragment,blue cheese
+364,allergens,"meat, egg and dairy products",metal fragment,frozen hash browns
+365,allergens,prepared dishes and snacks,metal fragment,vodka
+366,allergens,prepared dishes and snacks,escherichia coli,dried fruit mix
+367,allergens,prepared dishes and snacks,escherichia coli,chilli sauce
+368,allergens,prepared dishes and snacks,peanuts and products thereof,frozen vegetables mix
+369,foreign bodies,"meat, egg and dairy products",metal fragment,hazelnuts
+370,allergens,prepared dishes and snacks,metal fragment,desserts
+371,fraud,"meat, egg and dairy products",glass fragment,guacamole
+372,foreign bodies,"meat, egg and dairy products",salmonella,soy sauce
+373,allergens,prepared dishes and snacks,salmonella,frozen hash browns
+374,foreign bodies,"meat, egg and dairy products",escherichia coli,tilapia
+375,foreign bodies,prepared dishes and snacks,metal fragment,pork and beef sausages
+376,allergens,prepared dishes and snacks,almond,hemp tea
+377,foreign bodies,prepared dishes and snacks,escherichia coli,meatloaf
+378,allergens,prepared dishes and snacks,escherichia coli,marshmalows
+379,allergens,"meat, egg and dairy products",glass fragment,potato croquettes
+380,foreign bodies,prepared dishes and snacks,salmonella,milk and milk products
+381,biological,prepared dishes and snacks,metal fragment,frozen poultry products
+382,allergens,prepared dishes and snacks,inspection issues,breakfast cereals
+383,allergens,prepared dishes and snacks,salmonella,pig meat - pork
+384,allergens,prepared dishes and snacks,inspection issues,soy sauce
+385,allergens,"meat, egg and dairy products",glass fragment,prepared dishes and snacks
+386,foreign bodies,prepared dishes and snacks,metal fragment,meat broth
+387,foreign bodies,prepared dishes and snacks,escherichia coli,soy sauce
+388,allergens,prepared dishes and snacks,glass fragment,guacamole
+389,allergens,"meat, egg and dairy products",inspection issues,hot dog sausages
+390,allergens,prepared dishes and snacks,metal fragment,carbonated beverage
+391,allergens,ices and desserts,escherichia coli,spring rolls
+392,allergens,prepared dishes and snacks,metal fragment,vegetable based products
+393,allergens,prepared dishes and snacks,salmonella,bread
+394,foreign bodies,prepared dishes and snacks,metal fragment,bean paste
+395,allergens,prepared dishes and snacks,escherichia coli,soy sauce
+396,allergens,prepared dishes and snacks,metal fragment,salads
+397,allergens,prepared dishes and snacks,salmonella,tahini
+398,allergens,"meat, egg and dairy products",glass fragment,chicken based products
+399,foreign bodies,prepared dishes and snacks,glass fragment,salmon
+400,allergens,prepared dishes and snacks,unauthorised substance ethylene oxide,flour
+401,allergens,"meat, egg and dairy products",soybeans and products thereof,flour
+402,foreign bodies,prepared dishes and snacks,salmonella,cheddar cheese
+403,allergens,prepared dishes and snacks,metal fragment,cooking sauce
+404,allergens,prepared dishes and snacks,metal fragment,sauces
+405,chemical,"meat, egg and dairy products",escherichia coli,gravy granules
+406,other hazard,"meat, egg and dairy products",glass fragment,seafood
+407,allergens,prepared dishes and snacks,escherichia coli,sugar confectionary
+408,allergens,"meat, egg and dairy products",escherichia coli,breakfast cereals
+409,allergens,prepared dishes and snacks,moulds,yoghurt
+410,chemical,"meat, egg and dairy products",escherichia coli,bottled water
+411,allergens,"meat, egg and dairy products",escherichia coli,prepared salads
+412,foreign bodies,prepared dishes and snacks,metal fragment,vegetable based products
+413,food additives and flavourings,"meat, egg and dairy products",metal fragment,gravy granules
+414,foreign bodies,"meat, egg and dairy products",escherichia coli,hot dog sausages
+415,allergens,prepared dishes and snacks,metal fragment,mussels
+416,allergens,prepared dishes and snacks,metal fragment,candies
+417,foreign bodies,prepared dishes and snacks,salmonella,iced tea
+418,allergens,prepared dishes and snacks,metal fragment,dumplings
+419,chemical,prepared dishes and snacks,escherichia coli,eggs
+420,other hazard,prepared dishes and snacks,escherichia coli,sandwiches
+421,allergens,prepared dishes and snacks,metal fragment,pasta sauce
+422,allergens,"meat, egg and dairy products",escherichia coli,vegetable mix
+423,packaging defect,"meat, egg and dairy products",glass fragment,soy sauce
+424,foreign bodies,"meat, egg and dairy products",escherichia coli,white chocolate
+425,foreign bodies,non-alcoholic beverages,escherichia coli,iced tea
+426,allergens,prepared dishes and snacks,escherichia coli,cheese
+427,allergens,cereals and bakery products,escherichia coli,eggs
+428,allergens,"meat, egg and dairy products",escherichia coli,prepacked salad
+429,allergens,prepared dishes and snacks,metal fragment,chocolate and chocolate products
+430,allergens,"meat, egg and dairy products",escherichia coli,dumplings
+431,allergens,prepared dishes and snacks,salmonella,other not classified meat products
+432,allergens,"meat, egg and dairy products",escherichia coli,eggs
+433,allergens,"meat, egg and dairy products",escherichia coli,trouts
+434,allergens,"meat, egg and dairy products",escherichia coli,prepared salads
+435,allergens,fruits and vegetables,metal fragment,dressing
+436,allergens,"meat, egg and dairy products",cereals containing gluten and products thereof,carbonated beverage
+437,foreign bodies,"meat, egg and dairy products",escherichia coli,cookies
+438,allergens,"meat, egg and dairy products",glass fragment,soy sauce
+439,allergens,cereals and bakery products,metal fragment,muffins
+440,allergens,prepared dishes and snacks,metal fragment,chocolates
+441,foreign bodies,prepared dishes and snacks,escherichia coli,eggs
+442,foreign bodies,"meat, egg and dairy products",salmonella,basil pesto sauce
+443,allergens,"soups, broths, sauces and condiments",salmonella,pumpkin seeds
+444,foreign bodies,non-alcoholic beverages,escherichia coli,eggs
+445,foreign bodies,"meat, egg and dairy products",escherichia coli,minced pork
+446,allergens,cereals and bakery products,escherichia coli,dumplings
+447,allergens,prepared dishes and snacks,metal fragment,prepared dish
+448,allergens,prepared dishes and snacks,metal fragment,other not classified meat products
+449,allergens,prepared dishes and snacks,metal fragment,toffee
+450,foreign bodies,prepared dishes and snacks,salmonella,seasoning
+451,foreign bodies,"meat, egg and dairy products",escherichia coli,sandwiches
+452,allergens,prepared dishes and snacks,glass fragment,chocolate drink powder
+453,allergens,prepared dishes and snacks,salmonella,butter
+454,food additives and flavourings,"meat, egg and dairy products",salmonella,soy sauce
+455,chemical,"meat, egg and dairy products",glass fragment,onions
+456,foreign bodies,"meat, egg and dairy products",glass fragment,sandwiches
+457,allergens,"meat, egg and dairy products",escherichia coli,salt
+458,other hazard,prepared dishes and snacks,salmonella,tilapia
+459,allergens,"meat, egg and dairy products",glass fragment,fresh parsley
+460,allergens,prepared dishes and snacks,salmonella,pastry products
+461,chemical,"meat, egg and dairy products",escherichia coli,cooked chicken
+462,allergens,prepared dishes and snacks,metal fragment,pasteurized milk
+463,allergens,"meat, egg and dairy products",metal fragment,halva
+464,biological,prepared dishes and snacks,escherichia coli,guacamole
+465,foreign bodies,"meat, egg and dairy products",escherichia coli,frozen hash browns
+466,foreign bodies,"meat, egg and dairy products",metal fragment,chicken pie
+467,allergens,prepared dishes and snacks,escherichia coli,frozen hash browns
+468,packaging defect,ices and desserts,plastic fragment,potato salad
+469,allergens,prepared dishes and snacks,metal fragment,other not classified meat products
+470,allergens,"meat, egg and dairy products",escherichia coli,frozen beef tongue
+471,chemical,prepared dishes and snacks,salmonella,buns
+472,allergens,"meat, egg and dairy products",escherichia coli,ravioli
+473,allergens,prepared dishes and snacks,metal fragment,cookies
+474,allergens,"meat, egg and dairy products",escherichia coli,chicken noodle soup
+475,allergens,"meat, egg and dairy products",escherichia coli,seasoning
+476,foreign bodies,ices and desserts,salmonella,cooked chicken
+477,chemical,cereals and bakery products,salmonella,frozen hash browns
+478,biological,prepared dishes and snacks,metal fragment,potatoes
+479,allergens,"meat, egg and dairy products",metal fragment,soy sauce
+480,allergens,prepared dishes and snacks,salmonella,hot dogs
+481,allergens,prepared dishes and snacks,inspection issues,mineral water
+482,foreign bodies,"meat, egg and dairy products",escherichia coli,Precooked cooked pork meat products
+483,allergens,"meat, egg and dairy products",metal fragment,cumin powder
+484,allergens,prepared dishes and snacks,escherichia coli,dumplings
+485,allergens,"meat, egg and dairy products",inspection issues,pasta salad
+486,allergens,prepared dishes and snacks,salmonella,white chocolate
+487,foreign bodies,prepared dishes and snacks,glass fragment,spreads
+488,allergens,prepared dishes and snacks,escherichia coli,cookies
+489,chemical,prepared dishes and snacks,salmonella,protein balls
+490,foreign bodies,prepared dishes and snacks,salmonella,salmon
+491,allergens,prepared dishes and snacks,salmonella,food supplement
+492,foreign bodies,prepared dishes and snacks,salmonella,instant coffee
+493,other hazard,prepared dishes and snacks,salmonella,chilli sauce
+494,allergens,prepared dishes and snacks,glass fragment,cakes
+495,fraud,prepared dishes and snacks,salmonella,brewer's yeast
+496,allergens,prepared dishes and snacks,metal fragment,jellies
+497,allergens,"meat, egg and dairy products",metal fragment,food supplement
+498,allergens,prepared dishes and snacks,patulin,pastry products
+499,allergens,"meat, egg and dairy products",cereals containing gluten and products thereof,pasteurized milk
+500,allergens,"meat, egg and dairy products",escherichia coli,noodles
+501,other hazard,prepared dishes and snacks,glass fragment,guacamole
+502,allergens,prepared dishes and snacks,salmonella,frozen hash browns
+503,allergens,prepared dishes and snacks,salmonella,dressing
+504,allergens,prepared dishes and snacks,metal fragment,soy milk product
+505,allergens,prepared dishes and snacks,escherichia coli,alcoholic beverages
+506,foreign bodies,prepared dishes and snacks,escherichia coli,potato croquettes
+507,allergens,prepared dishes and snacks,insects,other not classified meat products
+508,allergens,"meat, egg and dairy products",inspection issues,noodle
+509,foreign bodies,prepared dishes and snacks,escherichia coli,fresh mushrooms
+510,allergens,prepared dishes and snacks,salmonella,soy sauce
+511,foreign bodies,prepared dishes and snacks,metal fragment,guacamole
+512,foreign bodies,"meat, egg and dairy products",escherichia coli,flour
+513,allergens,prepared dishes and snacks,escherichia coli,nuts mix
+514,allergens,prepared dishes and snacks,salmonella,quinoa
+515,allergens,prepared dishes and snacks,metal fragment,croissants
+516,allergens,cereals and bakery products,salmonella,biscuits
+517,other hazard,"meat, egg and dairy products",escherichia coli,guacamole
+518,biological,prepared dishes and snacks,escherichia coli,frozen dumplings with pork
+519,allergens,"meat, egg and dairy products",salmonella,yoghurt
+520,allergens,"meat, egg and dairy products",metal fragment,black pepper
+521,allergens,"meat, egg and dairy products",metal fragment,chocolate chips
+522,biological,prepared dishes and snacks,salmonella,fruit juice
+523,chemical,"meat, egg and dairy products",salmonella,salmon
+524,foreign bodies,"meat, egg and dairy products",salmonella,frozen broccoli
+525,biological,"meat, egg and dairy products",glass fragment,halva
+526,chemical,prepared dishes and snacks,listeria monocytogenes,"emulsifiers, stabilizers, thickeners and gelling agents"
+527,allergens,prepared dishes and snacks,metal fragment,soy sauce
+528,other hazard,"meat, egg and dairy products",glass fragment,hot dogs
+529,allergens,prepared dishes and snacks,salmonella,vodka
+530,allergens,prepared dishes and snacks,escherichia coli,pretzels
+531,chemical,"meat, egg and dairy products",escherichia coli,tahini (sesame paste)
+532,foreign bodies,"meat, egg and dairy products",escherichia coli,mineral water
+533,allergens,"meat, egg and dairy products",inspection issues,frozen marinated beef
+534,fraud,"meat, egg and dairy products",salmonella,snack crackers
+535,allergens,"meat, egg and dairy products",metal fragment,seasoning
+536,foreign bodies,prepared dishes and snacks,salmonella,breakfast cereals
+537,foreign bodies,prepared dishes and snacks,escherichia coli,fresh mushrooms
+538,allergens,"soups, broths, sauces and condiments",salmonella,soy sauce
+539,fraud,prepared dishes and snacks,escherichia coli,mussels
+540,food additives and flavourings,prepared dishes and snacks,salmonella,cbd oil
+541,food additives and flavourings,"meat, egg and dairy products",salmonella,baby food
+542,allergens,"soups, broths, sauces and condiments",escherichia coli,frozen hash browns
+543,allergens,"meat, egg and dairy products",metal fragment,brewer's yeast
+544,other hazard,prepared dishes and snacks,salmonella,peanuts
+545,allergens,prepared dishes and snacks,salmonella,cous cous
+546,foreign bodies,fruits and vegetables,escherichia coli,soy sauce
+547,food additives and flavourings,"meat, egg and dairy products",glass fragment,coconut milk
+548,allergens,"meat, egg and dairy products",escherichia coli,soy sauce
+549,food additives and flavourings,cereals and bakery products,glass fragment,sausage
+550,food additives and flavourings,cereals and bakery products,glass fragment,noodle soup
+551,migration,prepared dishes and snacks,salmonella,fruit pies
+552,migration,prepared dishes and snacks,escherichia coli,fermented beef meat
+553,foreign bodies,prepared dishes and snacks,salmonella,croissants
+554,allergens,"meat, egg and dairy products",salmonella,frozen hash browns
+555,allergens,"meat, egg and dairy products",cereals containing gluten and products thereof,guacamole
+556,foreign bodies,"meat, egg and dairy products",salmonella,pesto
+557,allergens,prepared dishes and snacks,escherichia coli,candies
+558,foreign bodies,prepared dishes and snacks,escherichia coli,frozen pie
+559,allergens,prepared dishes and snacks,salmonella,bread and products therefor
+560,food additives and flavourings,prepared dishes and snacks,salmonella,soy sauce
+561,allergens,prepared dishes and snacks,salmonella,protein bars
+562,allergens,prepared dishes and snacks,salmonella,cakes
+563,allergens,prepared dishes and snacks,salmonella,biscuits
+564,allergens,prepared dishes and snacks,inspection issues,wraps
